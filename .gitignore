@@ -1,0 +1,15 @@
+/.inbiz/*
+inbiz*.settings
+/backup/*
+/.history/*
+/node_modules/*
+/.log/*
+/.idea/*
+/plugins/**/node_modules/*
+/.*
+!/.gitignore
+!/.vscode/settings.json
+*/plugins/*/temp/dist.zip
+*/plugins/.dist/**
+*/plugins/**/node_modules/*
+*/plugins/**/dist/*

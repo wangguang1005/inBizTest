@@ -1,0 +1,452 @@
+{
+  "content": {
+    "form": {
+      "labelCol": 6,
+      "wrapperCol": 18,
+      "layout": "vertical",
+      "labelAlign": "left",
+      "model": {
+        "ModelKey": "mde_rfD1s7fD",
+        "ModuleId": "477386ac5fa24238a18c342afa337d2b",
+        "Name": "use_the_rules_and_procedures",
+        "Describe": "用章流程",
+        "ModelType": 0
+      }
+    },
+    "schema": {
+      "type": "object",
+      "properties": {
+        "EformStaticList_xfgo0pvwh6": {
+          "type": "sting",
+          "title": {
+            "value": "使用类型",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformStaticList",
+          "x-component-props": {
+            "selectMode": false,
+            "showMode": 2,
+            "placeholder": "EformStaticListView.placeholder",
+            "defaultValue": [],
+            "label": {
+              "status": true,
+              "value": "静态列表"
+            },
+            "autoLoading": true,
+            "labelDirection": "left",
+            "layoutMode": "portrait",
+            "placeholder1": "点击选择",
+            "selectWindowHeight": 50,
+            "value": "",
+            "disabledOptions": [],
+            "hideDisabledOptions": false,
+            "staticDataList": "b97e3d8005b6495c9e0af8ee56eb2d56",
+            "dataType": "system",
+            "dataGroupId": "b97e3d8005b6495c9e0af8ee56eb2d56",
+            "model": {
+              "Name": "u_type",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "使用类型",
+              "Scale": 0,
+              "Key": "fie_6DfKZroQ",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformStaticListContainer  wap",
+            "data-designer-node-id": "4dy726wxfcg"
+          },
+          "name": "EformStaticList_xfgo0pvwh6",
+          "required": true,
+          "x-designable-id": "4dy726wxfcg",
+          "x-index": 0
+        },
+        "EformStaticList_mt4bhc34sz": {
+          "type": "sting",
+          "title": {
+            "value": "工商主体",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformStaticList",
+          "x-component-props": {
+            "selectMode": false,
+            "showMode": 1,
+            "placeholder": "EformStaticListView.placeholder",
+            "defaultValue": [],
+            "label": {
+              "status": true,
+              "value": "静态列表"
+            },
+            "autoLoading": true,
+            "labelDirection": "left",
+            "layoutMode": "portrait",
+            "placeholder1": "点击选择",
+            "selectWindowHeight": 50,
+            "value": "",
+            "disabledOptions": [],
+            "hideDisabledOptions": false,
+            "staticDataList": "5d2a148db9c340afa3fcaf899df4af9e",
+            "dataType": "system",
+            "dataGroupId": "5d2a148db9c340afa3fcaf899df4af9e",
+            "model": {
+              "Name": "u_main",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "工商主体",
+              "Scale": 0,
+              "Key": "fie_M9Ndtmfj",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformStaticListContainer  wap",
+            "data-designer-node-id": "j6pj81y8udw"
+          },
+          "name": "EformStaticList_mt4bhc34sz",
+          "required": true,
+          "x-designable-id": "j6pj81y8udw",
+          "x-index": 1
+        },
+        "EformTextArea_5itpnrw9wo": {
+          "type": "string",
+          "title": {
+            "value": "使用事由",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformTextArea",
+          "x-component-props": {
+            "defaultValue": "",
+            "placeholder": "EformTextArea.placeholder",
+            "showCount": false,
+            "model": {
+              "Name": "u_text",
+              "InnerType": "string",
+              "Type": "text",
+              "Length": 0,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "使用事由",
+              "Scale": 0,
+              "Key": "fie_rwnn5MtZ",
+              "ModelName": null,
+              "TypeCN": "长文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformTextAreaContainer  wap",
+            "data-designer-node-id": "wxt24cf1xy2"
+          },
+          "name": "EformTextArea_5itpnrw9wo",
+          "required": true,
+          "x-designable-id": "wxt24cf1xy2",
+          "x-index": 2
+        },
+        "EformMemberSelect_uni0dh9gkq": {
+          "title": {
+            "value": "使用人",
+            "status": true
+          },
+          "type": "Array",
+          "x-decorator": "FormItem",
+          "x-component": "EformMemberSelect",
+          "x-component-props": {
+            "label": {
+              "status": true,
+              "value": "EformMemberSelect.title"
+            },
+            "placeholder": "EformMemberSelect.lang.plzSelect",
+            "multiple": true,
+            "tabs": [
+              "user"
+            ],
+            "readonly": false,
+            "visible": false,
+            "className": "",
+            "model": {
+              "Name": "u_people",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "使用人",
+              "Scale": 0,
+              "Key": "fie_KVESBpdU",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformMemberSelectContainer  wap",
+            "data-designer-node-id": "y2r2boc7xmz"
+          },
+          "name": "EformMemberSelect_uni0dh9gkq",
+          "required": true,
+          "x-designable-id": "y2r2boc7xmz",
+          "x-index": 3
+        },
+        "EformDatePicker_0jj4cq3tq7": {
+          "type": "string",
+          "title": {
+            "value": "使用日期",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformDatePicker",
+          "x-component-props": {
+            "format": "YYYY-MM-DD",
+            "defaultValueType": "variableDefaultValue",
+            "customDefaultValue": null,
+            "variableDefaultValue": "nowTime",
+            "placeholder": "EformDatePicker.placeholder",
+            "allowBeforeNow": false,
+            "allowClear": true,
+            "min": "",
+            "max": "",
+            "model": {
+              "Name": "u_time",
+              "InnerType": "datetime",
+              "Type": "datetime",
+              "Length": 0,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "使用时间",
+              "Scale": 0,
+              "Key": "fie_QLAN33K4",
+              "ModelName": null,
+              "TypeCN": "时间"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformDatePickerContainer  wap",
+            "data-designer-node-id": "l3im3dvde7k"
+          },
+          "name": "EformDatePicker_0jj4cq3tq7",
+          "required": true,
+          "x-designable-id": "l3im3dvde7k",
+          "x-index": 4
+        },
+        "EformTextArea_iz0rjlowda": {
+          "type": "string",
+          "title": {
+            "value": "其他说明",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformTextArea",
+          "x-component-props": {
+            "defaultValue": "",
+            "placeholder": "EformTextArea.placeholder",
+            "showCount": false,
+            "model": {
+              "Name": "u_notes",
+              "InnerType": "string",
+              "Type": "text",
+              "Length": 0,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "其他说明",
+              "Scale": 0,
+              "Key": "fie_cy3Sftqa",
+              "ModelName": null,
+              "TypeCN": "长文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformTextAreaContainer  wap",
+            "data-designer-node-id": "73k9m2wu7cn"
+          },
+          "name": "EformTextArea_iz0rjlowda",
+          "x-designable-id": "73k9m2wu7cn",
+          "x-index": 5
+        },
+        "ProcessButton_f90dha29k7": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "className": "ProcessButtonContainer  wap",
+            "data-designer-node-id": "6lbvzurj6ty"
+          },
+          "x-component": "ProcessButton",
+          "x-component-props": {
+            "tips": "",
+            "buttonVisible": "visible",
+            "webbuttonConfig": [
+              {
+                "action": "initiate",
+                "name": "processButton.initiate",
+                "type": "initiate",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "approve",
+                "name": "processButton.approve",
+                "type": "approve",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "returnsBack",
+                "name": "processButton.returnsBack",
+                "type": "returnsBack",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "cancel",
+                "name": "processButton.cancel",
+                "type": "cancel",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              }
+            ],
+            "wapbuttonConfig": [
+              {
+                "action": "initiate",
+                "name": "processbutton.initiate",
+                "type": "initiate",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "approve",
+                "name": "processButton.approve",
+                "type": "approve",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "returnsBack",
+                "name": "processButton.returnPrestep",
+                "type": "returnsBack",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "cancel",
+                "name": "processButton.cancel",
+                "type": "cancel",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              }
+            ],
+            "radius": 4,
+            "showCCmember": true,
+            "showComment": true
+          },
+          "name": "ProcessButton_f90dha29k7",
+          "x-designable-id": "6lbvzurj6ty",
+          "x-index": 6
+        },
+        "ProcessLogBtn_a05xrkv1m7": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "className": "ProcessLogBtnContainer  wap",
+            "data-designer-node-id": "jo8xbbx6c6z"
+          },
+          "x-component": "ProcessLogBtn",
+          "x-component-props": {
+            "minWidth": 100,
+            "maxWidth": "",
+            "text": "button",
+            "type": "primary"
+          },
+          "name": "ProcessLogBtn_a05xrkv1m7",
+          "x-designable-id": "jo8xbbx6c6z",
+          "x-index": 7
+        }
+      },
+      "x-designable-id": "o3stn99g2pm"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "TableNamePrefix": "ydd",
+  "ZipType": 3,
+  "Contains": 8178,
+  "Version": "4.0.0.0",
+  "VersionNumAlias": "1.0.0",
+  "ExportDataProviderType": 0,
+  "AppType": 0,
+  "IsReleased": true,
+  "IsOpenCustomized": true,
+  "IsCustomized": false,
+  "AppId": "3a068a7a7dda6255e0cf43b410ee2316",
+  "AppName": "移动端",
+  "Domain": "ydd",
+  "Description": null,
+  "ThumbPath": "/inbiz/static/{AppId}/file/2023-08-18/927d44e6553545a1940d2925ea5c68af.png",
+  "LogoPath": null,
+  "IsOnlyOne": false,
+  "HasCustomPlugin": false,
+  "Sites": [
+    {
+      "SiteType": 0,
+      "OutId": "3a068a7a8763ab6b9edaeabbe70ee430"
+    },
+    {
+      "SiteType": 1,
+      "OutId": "3a068a7a87cc086998c731a155694eb3"
+    },
+    {
+      "SiteType": 2,
+      "OutId": "3a068a7a87d07d2d7a608276cb49ee7c"
+    }
+  ],
+  "CustomPluginMap": null,
+  "IsResolvedLanguage": false
+}
