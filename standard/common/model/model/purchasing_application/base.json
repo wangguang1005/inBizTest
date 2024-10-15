@@ -1,0 +1,17 @@
+{
+  "Key": "mde_ioZN3rl9",
+  "ModuleName": "流程",
+  "ModuleKey": "477386ac5fa24238a18c342afa337d2b",
+  "Name": "purchasing_application",
+  "Describe": "采购申请",
+  "PublishState": 1,
+  "ModelType": 0,
+  "RelationField": null,
+  "FictitiousReadonly": true,
+  "StructureType": null,
+  "IsDeleted": true,
+  "ContainDefaultField": true,
+  "IsCustomized": false,
+  "CreateOriginType": 0,
+  "BusinessKey": null
+}

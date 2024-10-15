@@ -1,0 +1,18 @@
+{
+  "Id": "3a0d16089ef99b61ef53a92f6a3f4a39",
+  "ServerName": "33",
+  "ServerKey": "3a079bcd014ed68887f14a1a1bb42e2e",
+  "Host": "33",
+  "HttpType": 0,
+  "AuthType": 0,
+  "AuthHeaders": null,
+  "AuthBodys": null,
+  "AuthMethodKey": null,
+  "Remark": null,
+  "LogoPath": null,
+  "IsCustomized": false,
+  "CreateOriginType": 1,
+  "CheckAuthMethodKey": null,
+  "CheckAuthInput": null,
+  "CheckAuthExpression": null
+}

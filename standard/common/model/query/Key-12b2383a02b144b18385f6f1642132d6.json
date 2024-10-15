@@ -1,0 +1,178 @@
+{
+  "Key": "12b2383a02b144b18385f6f1642132d6",
+  "Name": "region_74365a27",
+  "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+  "GroupKey": "0",
+  "MD5": "85c0d74ace7e3788bdf047f1457465cf",
+  "DataType": 0,
+  "UseCustomRelation": false,
+  "ConfigJson": {
+    "ModelQueryModelRelation": [
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "ModelName": "region",
+        "ParentModelKey": null,
+        "Children": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "ModelName": "project",
+        "ParentModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "Children": null
+      }
+    ],
+    "UseCustomRelation": false,
+    "CustomModelRelation": null,
+    "ModelQueryField": [
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "a176551ac3c747e9942caf249733eb31",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "id",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "4cd76463349940d1964e0d436fdc8b38",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "text",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "f0fa46067c574437afd3a7c11e7aebe6",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "parentid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "54fbfa47792445269601979079c49c22",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "path",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "d402171d9bff468e9fd0672d7599f3e7",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "ref_id",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "65b3ee30def84901b915e95199c97b22",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "controlid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "01fe1f0bca194448bb31ac979e7fe7bc",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "creatorid",
+          "FormatType": 1,
+          "FormatTypeDetail": "0",
+          "FormatTypeName": "用户",
+          "MemberFormatType": null,
+          "ShowField": null,
+          "RelationModel": null,
+          "RelationField": null,
+          "ModelType": 3,
+          "Children": null
+        },
+        "ModelName": "region",
+        "FieldName": "creatorid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "b8c5c30bdb3c42eaadb6a36f425918ab",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "creationtime",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "33e83db31fbb453891f3e168bd70d865",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "lastmodifierid",
+          "FormatType": 1,
+          "FormatTypeDetail": "0",
+          "FormatTypeName": "用户",
+          "MemberFormatType": null,
+          "ShowField": null,
+          "RelationModel": null,
+          "RelationField": null,
+          "ModelType": 3,
+          "Children": null
+        },
+        "ModelName": "region",
+        "FieldName": "lastmodifierid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "f9776c5b6dea4fbb9a0076b4c6edd34a",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "lastmodificationtime",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "FieldKey": "3fc6ad7c52ac42bf96b5e6b056005fe6",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "region",
+        "FieldName": "isdeleted",
+        "AnotherName": null
+      }
+    ],
+    "FixedCondition": null,
+    "FilterType": 0,
+    "SortConfigs": null,
+    "Key": "12b2383a02b144b18385f6f1642132d6"
+  },
+  "IsCustomized": false,
+  "CreateOriginType": 0
+}

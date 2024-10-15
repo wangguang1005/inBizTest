@@ -1,0 +1,39 @@
+{
+  "DistDatas": [
+    {
+      "Value": "蔬菜",
+      "Text": "蔬菜",
+      "GroupId": "b9ce5d8ad6c441479b071c66c1a9fe7e",
+      "ColumnSort": "0",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "水果",
+      "Text": "水果",
+      "GroupId": "b9ce5d8ad6c441479b071c66c1a9fe7e",
+      "ColumnSort": "1",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "肉类",
+      "Text": "肉类",
+      "GroupId": "b9ce5d8ad6c441479b071c66c1a9fe7e",
+      "ColumnSort": "2",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "其他",
+      "Text": "其他",
+      "GroupId": "b9ce5d8ad6c441479b071c66c1a9fe7e",
+      "ColumnSort": "4",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    }
+  ],
+  "Name": "产品类型",
+  "Key": "b9ce5d8ad6c441479b071c66c1a9fe7e",
+  "IsCustomized": false
+}

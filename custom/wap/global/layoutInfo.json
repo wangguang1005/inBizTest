@@ -1,0 +1,86 @@
+{
+  "Layout": {
+    "top": {
+      "form": {
+        "labelCol": 6,
+        "model": {},
+        "wrapperCol": 12,
+        "layout": "vertical",
+        "labelAlign": "left"
+      },
+      "schema": {
+        "type": "object",
+        "properties": {}
+      }
+    },
+    "bottom": {
+      "form": {
+        "labelCol": 6,
+        "model": {},
+        "wrapperCol": 12,
+        "layout": "vertical",
+        "labelAlign": "left"
+      },
+      "schema": {
+        "type": "object",
+        "properties": {
+          "InbizMenu_1oucvcbucz": {
+            "type": "string",
+            "x-decorator": "Container",
+            "x-decorator-props": {
+              "clickable": true,
+              "style": {
+                "borderBottomColor": "#eee",
+                "borderBottomStyle": "solid",
+                "borderBottomWidth": "1px"
+              },
+              "className": "InbizMenuContainer  wap"
+            },
+            "x-component": "InbizMenu",
+            "x-component-biz-props": {
+              "logoconfig": "",
+              "linkType": "in"
+            },
+            "x-component-props": {
+              "viewtype": "horizontal",
+              "showlogo": true,
+              "shrinkage": true,
+              "displaytype": "spread",
+              "menustyle": "basic",
+              "showLevel": [
+                "1",
+                "2"
+              ],
+              "mainmenu": true,
+              "fontColor": "rgba(51,51,34,1)",
+              "icoHoverColor": "var(--inbiz-color-primary)",
+              "bgColor": "rgba(255,255,255,1)"
+            },
+            "name": "InbizMenu_1oucvcbucz",
+            "x-index": 0,
+            "properties": {
+              "6ma4zkpbhxm": {
+                "type": "void",
+                "title": "菜单卡槽",
+                "x-decorator": "Container",
+                "x-decorator-props": {
+                  "clickable": true,
+                  "style": {
+                    "width": "100%"
+                  }
+                },
+                "x-component": "InbizMenu.Plugin",
+                "x-component-props": {},
+                "x-index": 0,
+                "name": "6ma4zkpbhxm"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "PageLayout": [],
+  "PageSkipPerm": [],
+  "MenuLayout": {}
+}

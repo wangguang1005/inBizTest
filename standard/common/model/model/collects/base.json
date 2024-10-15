@@ -1,0 +1,17 @@
+{
+  "Key": "mde_sCug5FWQ",
+  "ModuleName": "评价反馈",
+  "ModuleKey": "mdu_JItKQR68",
+  "Name": "collects",
+  "Describe": "评价反馈表",
+  "PublishState": 1,
+  "ModelType": 0,
+  "RelationField": null,
+  "FictitiousReadonly": true,
+  "StructureType": null,
+  "IsDeleted": true,
+  "ContainDefaultField": true,
+  "IsCustomized": false,
+  "CreateOriginType": 0,
+  "BusinessKey": null
+}

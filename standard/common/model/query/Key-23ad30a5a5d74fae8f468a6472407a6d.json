@@ -1,0 +1,92 @@
+{
+  "Key": "23ad30a5a5d74fae8f468a6472407a6d",
+  "Name": "收款计划",
+  "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+  "GroupKey": "0",
+  "MD5": "def49dc363053abf5bc4265de5888e42",
+  "DataType": 0,
+  "UseCustomRelation": false,
+  "ConfigJson": {
+    "ModelQueryModelRelation": [
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "ModelName": "sk",
+        "ParentModelKey": null,
+        "Children": null
+      },
+      {
+        "ModelKey": "c4748b04-8fa2-43b3-b378-18d7d0e3d790",
+        "ModelName": "ht",
+        "ParentModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "Children": null
+      }
+    ],
+    "UseCustomRelation": false,
+    "CustomModelRelation": null,
+    "ModelQueryField": [
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "b4ssjfuolqo9hpzyp15vusif1473tfvb",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "jd",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "07ytgwa1rogca1hrds4f9ctg7kw0duta",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "ysje",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "0e5lqnig7mspp0f2sfvswmvbn2iiv940",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "skdate",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "ztiog1aojqfhb54ak3qcf27hk8zzfy24",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "skbz",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "3939931e5524413dbde2fd17b1a96b1e",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "htid",
+        "AnotherName": null
+      }
+    ],
+    "FixedCondition": {
+      "ConditionStr": ""
+    },
+    "FilterType": 2,
+    "SortConfigs": [],
+    "Key": null
+  },
+  "IsCustomized": false,
+  "CreateOriginType": 0
+}

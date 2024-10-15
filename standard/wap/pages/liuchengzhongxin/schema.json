@@ -1,0 +1,2275 @@
+{
+  "content": {
+    "form": {
+      "labelCol": 6,
+      "wrapperCol": 18,
+      "layout": "vertical",
+      "labelAlign": "left",
+      "model": {},
+      "style": {
+        "backgroundColor": "rgba(245,245,247,1)"
+      }
+    },
+    "schema": {
+      "type": "object",
+      "properties": {
+        "ProcessCenter_a04njbm7zp": {
+          "title": {
+            "status": true,
+            "value": "ProcessCenter.title"
+          },
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "style": {
+              "height": "auto",
+              "backgroundColor": "rgba(255,255,255,1)",
+              "margin": "0px 0px 0px 0px",
+              "padding": "0px 0px 0px 0px"
+            },
+            "className": "ProcessCenterContainer  wap",
+            "data-designer-node-id": "tgh69o3047k"
+          },
+          "x-component": "ProcessCenter",
+          "x-component-props": {
+            "viewtype": "pure",
+            "customfontsize": 14,
+            "headerStyle": {
+              "icon": {
+                "type": ""
+              },
+              "color": "rgba(102,102,102,1)"
+            },
+            "style": {
+              "padding": "0px 20px 15px 20px",
+              "height": "inherit"
+            },
+            "page": "",
+            "showTabTitle": true,
+            "defaultpage": "1",
+            "puredynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              }
+            ],
+            "colordynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-faqishenqing",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodedaiban",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-shenqingzhong",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodecaogao",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-chaosonggeiwo",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeshenqing",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeyiban",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeguidang",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              }
+            ],
+            "simpledynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              }
+            ],
+            "tabdynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": false,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              }
+            ],
+            "mobiledynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "page": "apply",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "page": "todo",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "page": "applying",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "page": "draft",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "page": "toMe",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "page": "myApply",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "page": "done",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "page": "classification",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "9",
+                "title": "processCenter.assigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-yizhipairenwu",
+                  "color": "#5ac8fa"
+                },
+                "page": "assigned",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "10",
+                "title": "processCenter.willAssigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-wodejianglaizhipai",
+                  "color": "#5ac8fa"
+                },
+                "page": "willassign",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "11",
+                "title": "processCenter.claimTask",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-dailingrenwu",
+                  "color": "#5ac8fa"
+                },
+                "page": "receive",
+                "titleColor": "rgba(0,0,0,1)"
+              }
+            ],
+            "tabVisible": "visible",
+            "columns": "3",
+            "gap": 12,
+            "horizontalgap": 15,
+            "verticalgap": 15,
+            "rangeConfig": "all",
+            "processGroup": {
+              "selectedRows": [],
+              "groupGuid": ""
+            },
+            "easydynamicdata": [],
+            "mobiltableedynamicdata": [],
+            "h5_easydynamicdata": []
+          },
+          "name": "ProcessCenter_a04njbm7zp",
+          "x-designable-id": "tgh69o3047k",
+          "x-index": 0,
+          "x-component-biz-props": {}
+        },
+        "ProcessCenter_5d0zbg88y7": {
+          "title": {
+            "status": true,
+            "value": "ProcessCenter.title"
+          },
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "style": {
+              "height": "100%",
+              "marginRight": "1px"
+            },
+            "className": "ProcessCenterContainer  wap",
+            "data-designer-node-id": "nm83cpvpowk"
+          },
+          "x-component": "ProcessCenter",
+          "x-component-props": {
+            "viewtype": "pure",
+            "h5_viewType": "processTable",
+            "customfontsize": 14,
+            "headerStyle": {
+              "icon": {
+                "color": "",
+                "type": "icon-liuchengzhongxin"
+              }
+            },
+            "style": {
+              "padding": "0px 20px 15px 20px",
+              "width": "100%"
+            },
+            "page": "",
+            "showTabTitle": true,
+            "defaultpage": "1",
+            "puredynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0,
+                "hintNumberFontSize": 14
+              }
+            ],
+            "colordynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-faqishenqing",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodedaiban",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-shenqingzhong",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodecaogao",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-chaosonggeiwo",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeshenqing",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeyiban",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeguidang",
+                  "color": "#fff"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "rgba(255,255,255,1)",
+                "hintNumberColor": "rgba(255,255,255,1)",
+                "gridHeight": 80,
+                "gridNum": 3,
+                "count": 0,
+                "hintNumberFontSize": 14
+              }
+            ],
+            "simpledynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "var(--inbiz-color-heading)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              }
+            ],
+            "tabdynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "processGroup": true,
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              }
+            ],
+            "easydynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "processGroup": true,
+                "blockBackgroundColor": "rgba(50,128,252,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(252,101,50,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(99,206,109,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(110,136,229,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(249,170,11,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(255,79,76,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(54,217,163,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-process-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "externalAddress": false,
+                "linkAddress": "",
+                "page": "",
+                "blockBackgroundColor": "rgba(90,200,250,1)",
+                "titleColor": "rgba(0,0,0,1)",
+                "hintNumberColor": "rgba(0,0,0,1)",
+                "gridHeight": 80,
+                "gridNum": 6,
+                "count": 0
+              }
+            ],
+            "mobiledynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "page": "apply",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "page": "todo",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "page": "applying",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "page": "draft",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "page": "toMe",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "page": "myApply",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "page": "done",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "page": "classification",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "9",
+                "title": "processCenter.assigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-yizhipairenwu",
+                  "color": "#5ac8fa"
+                },
+                "page": "assigned",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "10",
+                "title": "processCenter.willAssigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-wodejianglaizhipai",
+                  "color": "#5ac8fa"
+                },
+                "page": "willassign",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "11",
+                "title": "processCenter.claimTask",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-dailingrenwu",
+                  "color": "#5ac8fa"
+                },
+                "page": "receive",
+                "titleColor": "rgba(0,0,0,1)"
+              }
+            ],
+            "mobiltableedynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": false,
+                "isHide": false,
+                "isDel": false,
+                "page": "apply",
+                "noBtn": true
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "todo"
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "applying"
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "draft"
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "toMe"
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "myApply"
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "done"
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "classification"
+              },
+              {
+                "id": "9",
+                "title": "processCenter.assigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "assigned"
+              },
+              {
+                "id": "10",
+                "title": "processCenter.willAssigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "willassign"
+              },
+              {
+                "id": "11",
+                "title": "processCenter.claimTask",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "page": "receive"
+              }
+            ],
+            "h5_easydynamicdata": [
+              {
+                "id": "1",
+                "title": "processCenter.startApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "processGroup": true,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-faqishenqing",
+                  "color": "#3280fc"
+                },
+                "page": "apply",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "2",
+                "title": "processCenter.todo",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodedaiban",
+                  "color": "#fc6532"
+                },
+                "page": "todo",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "3",
+                "title": "processCenter.applying",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-shenqingzhong",
+                  "color": "#63ce6d"
+                },
+                "page": "applying",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "4",
+                "title": "processCenter.mydraft",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodecaogao",
+                  "color": "#6e88e5"
+                },
+                "page": "draft",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "5",
+                "title": "processCenter.tome",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-chaosonggeiwo",
+                  "color": "#f9aa0b"
+                },
+                "page": "toMe",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "6",
+                "title": "processCenter.myApply",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeshenqing",
+                  "color": "#ff4f4c"
+                },
+                "page": "myApply",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "7",
+                "title": "processCenter.done",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeyiban",
+                  "color": "#36d9a3"
+                },
+                "page": "done",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "8",
+                "title": "processCenter.classification",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-wodeguidang",
+                  "color": "#5ac8fa"
+                },
+                "page": "classification",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "9",
+                "title": "processCenter.assigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-yizhipairenwu",
+                  "color": "#5ac8fa"
+                },
+                "page": "assigned",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "10",
+                "title": "processCenter.willAssigned",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-wodejianglaizhipai",
+                  "color": "#5ac8fa"
+                },
+                "page": "willassign",
+                "titleColor": "rgba(0,0,0,1)"
+              },
+              {
+                "id": "11",
+                "title": "processCenter.claimTask",
+                "isEdit": true,
+                "isHide": true,
+                "isDel": false,
+                "icon": {
+                  "size": 40,
+                  "type": "icon-ic-dailingrenwu",
+                  "color": "#5ac8fa"
+                },
+                "page": "receive",
+                "titleColor": "rgba(0,0,0,1)"
+              }
+            ],
+            "tabVisible": true,
+            "columns": "2",
+            "gap": 12,
+            "horizontalgap": 15,
+            "verticalgap": 15,
+            "rangeConfig": "all",
+            "processGroup": {
+              "selectedRows": [],
+              "groupGuid": ""
+            },
+            "showLog": true,
+            "showStatus": true,
+            "h5_showStatus": true,
+            "h5_listLogo": "shixinyuan",
+            "easy": [],
+            "easyDefaultPage": "1",
+            "h5_easyDefaultPage": "1",
+            "h5_tableDefaultPage": "1",
+            "dataLoadMode": "more",
+            "loadMoreText": "查看更多",
+            "loadMoreLocation": "topRight",
+            "showMore": true,
+            "easyLoadMoreText": "查看更多",
+            "easyLoadMoreLocation": "topRight",
+            "openMode": "newPage",
+            "openPopUpHeight": {
+              "value": "600",
+              "type": "px"
+            },
+            "openPopUpWidth": {
+              "value": "1000",
+              "type": "px"
+            },
+            "drawerWidth": {
+              "value": "60",
+              "type": "%"
+            }
+          },
+          "x-component-biz-props": {
+            "pageSize": 10
+          },
+          "name": "ProcessCenter_5d0zbg88y7",
+          "x-designable-id": "nm83cpvpowk",
+          "x-index": 1
+        }
+      },
+      "x-designable-id": "b21wrzop0dt"
+    }
+  }
+}

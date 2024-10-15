@@ -1,0 +1,1238 @@
+{
+  "Root\\": {
+    "Entry": {
+      "Key": "3a068a7a863196bbdadd0c0d2daa1f71",
+      "ParentKey": "",
+      "Order": 0,
+      "NamePath": "Root\\",
+      "Name": "Root",
+      "Level": 0,
+      "IsRoot": true,
+      "IsSystem": true,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:29"
+    },
+    "File": null
+  },
+  "Root\\environment\\": {
+    "Entry": {
+      "Key": "3a068a7a8ae5d6ede12a80ba0b1ec383",
+      "ParentKey": "3a068a7a863196bbdadd0c0d2daa1f71",
+      "Order": 0,
+      "NamePath": "Root\\environment\\",
+      "Name": "environment",
+      "Level": 1,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\Icon\\": {
+    "Entry": {
+      "Key": "3a068b20c7f6fa274be7db802c2c9d09",
+      "ParentKey": "3a068a7a863196bbdadd0c0d2daa1f71",
+      "Order": 0,
+      "NamePath": "Root\\Icon\\",
+      "Name": "Icon",
+      "Level": 1,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\Page\\": {
+    "Entry": {
+      "Key": "94acfb9842b6179f57223a0676782514",
+      "ParentKey": "3a068a7a863196bbdadd0c0d2daa1f71",
+      "Order": 0,
+      "NamePath": "Root\\Page\\",
+      "Name": "Page",
+      "Level": 1,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\Page\\Publish\\": {
+    "Entry": {
+      "Key": "7d44a998ebb1f78b9e7b3a067678251c",
+      "ParentKey": "94acfb9842b6179f57223a0676782514",
+      "Order": 0,
+      "NamePath": "Root\\Page\\Publish\\",
+      "Name": "Publish",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\": {
+    "Entry": {
+      "Key": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "ParentKey": "3a068a7a863196bbdadd0c0d2daa1f71",
+      "Order": 0,
+      "NamePath": "Root\\System\\",
+      "Name": "System",
+      "Level": 1,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\": {
+    "Entry": {
+      "Key": "3a07f7af34653bcb1721db708c0effbe",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\",
+      "Name": "lang",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\business\\": {
+    "Entry": {
+      "Key": "3a07f7af34c395c89f73f78bcddf4eb1",
+      "ParentKey": "3a07f7af34653bcb1721db708c0effbe",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\business\\",
+      "Name": "business",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\business\\en\\": {
+    "Entry": {
+      "Key": "3a07f7af3536703fbc7d439efe6873d6",
+      "ParentKey": "3a07f7af34c395c89f73f78bcddf4eb1",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\business\\en\\",
+      "Name": "en",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\business\\en\\app\\": {
+    "Entry": {
+      "Key": "3a07f7af353d3542c23460128391882c",
+      "ParentKey": "3a07f7af3536703fbc7d439efe6873d6",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\business\\en\\app\\",
+      "Name": "app",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\business\\ja\\": {
+    "Entry": {
+      "Key": "3a07f7af358000ec55857e420af876e4",
+      "ParentKey": "3a07f7af34c395c89f73f78bcddf4eb1",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\business\\ja\\",
+      "Name": "ja",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\business\\ja\\app\\": {
+    "Entry": {
+      "Key": "3a07f7af3586fc4037a6c6d43f960fc2",
+      "ParentKey": "3a07f7af358000ec55857e420af876e4",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\business\\ja\\app\\",
+      "Name": "app",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\business\\zh-cn\\": {
+    "Entry": {
+      "Key": "3a07f7af34cd8a770d158fc091ee7f9b",
+      "ParentKey": "3a07f7af34c395c89f73f78bcddf4eb1",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\business\\zh-cn\\",
+      "Name": "zh-cn",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\business\\zh-cn\\app\\": {
+    "Entry": {
+      "Key": "3a07f7af34d38a4aa8f330df06863fca",
+      "ParentKey": "3a07f7af34cd8a770d158fc091ee7f9b",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\business\\zh-cn\\app\\",
+      "Name": "app",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\page\\": {
+    "Entry": {
+      "Key": "3a070698eb8fc3b19a4caa496a6ded08",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\page\\",
+      "Name": "page",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\System\\page\\publish\\": {
+    "Entry": {
+      "Key": "3a070698eb9605dac95f6eb98348816a",
+      "ParentKey": "3a070698eb8fc3b19a4caa496a6ded08",
+      "Order": 0,
+      "NamePath": "Root\\System\\page\\publish\\",
+      "Name": "publish",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": null
+  },
+  "Root\\Icon\\jiaofei20220926172921.svg": {
+    "Entry": {
+      "Key": "3a068b4e088783971107e95ae6c03261",
+      "ParentKey": "3a068b20c7f6fa274be7db802c2c9d09",
+      "Order": 0,
+      "NamePath": "Root\\Icon\\jiaofei20220926172921.svg",
+      "Name": "jiaofei20220926172921.svg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a0c1167026b16eeeec554274",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a0c1167026b16eeeec554274",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-26/ce642f33c5a44085b131302bd7226902.svg",
+      "FileType": 0,
+      "Suffix": ".svg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\Icon\\kaoshiyutiaocha20220926172704.svg": {
+    "Entry": {
+      "Key": "3a068b4bf103dab07bba179aa9084735",
+      "ParentKey": "3a068b20c7f6fa274be7db802c2c9d09",
+      "Order": 0,
+      "NamePath": "Root\\Icon\\kaoshiyutiaocha20220926172704.svg",
+      "Name": "kaoshiyutiaocha20220926172704.svg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a15a227f88c3906a1c7bb5f9",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a15a227f88c3906a1c7bb5f9",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-26/39aac0f789534f649e2f4a03289e53a4.svg",
+      "FileType": 0,
+      "Suffix": ".svg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\Icon\\竖线20220926163956.svg": {
+    "Entry": {
+      "Key": "3a068b20c7fe3d543dba6581edb6c08b",
+      "ParentKey": "3a068b20c7f6fa274be7db802c2c9d09",
+      "Order": 0,
+      "NamePath": "Root\\Icon\\竖线20220926163956.svg",
+      "Name": "竖线20220926163956.svg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a1bb086a2a72a1a4e75bab89",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a1bb086a2a72a1a4e75bab89",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-26/e50bd4e084ba4feea975d8c2411da16d.svg",
+      "FileType": 0,
+      "Suffix": ".svg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220926014108.jpg": {
+    "Entry": {
+      "Key": "3a068a7d1989f35a7f30c7e395f9ee7b",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220926014108.jpg",
+      "Name": "20220926014108.jpg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a2626e4100d4855c944997e2",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a2626e4100d4855c944997e2",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-26/b8857099652a44ac9dec93ac570a413a.jpg",
+      "FileType": 0,
+      "Suffix": ".jpg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220926055413.jpg": {
+    "Entry": {
+      "Key": "3a068b64cc6af1e6cfe3a7e7bf8418bf",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220926055413.jpg",
+      "Name": "20220926055413.jpg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a2ae2977b056976929fc5390",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a2ae2977b056976929fc5390",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-26/7af775aeb62f4eda8272a1966b672ed1.jpg",
+      "FileType": 0,
+      "Suffix": ".jpg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220926060953.jpg": {
+    "Entry": {
+      "Key": "3a068b73262c3960dc498e02890d08b4",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220926060953.jpg",
+      "Name": "20220926060953.jpg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a391f3d48ccb2404f156b51c",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a391f3d48ccb2404f156b51c",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-26/8e38732f933a4ab4a79ae046d09f2582.jpg",
+      "FileType": 0,
+      "Suffix": ".jpg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927012254.png": {
+    "Entry": {
+      "Key": "3a068f92c0a9a3bca31629220be9d95a",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927012254.png",
+      "Name": "20220927012254.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a4261779fe22ee2dbc588001",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a4261779fe22ee2dbc588001",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/c2ffcb7143f94fed811cc0a9adb4f9d3.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927021657.png": {
+    "Entry": {
+      "Key": "3a068fc43fc6f2cc43eb842cdb04c859",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927021657.png",
+      "Name": "20220927021657.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a521085090f480007fb89c0b",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a521085090f480007fb89c0b",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/12c688fac6fa431b8fb0004f6b393704.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927080108.png": {
+    "Entry": {
+      "Key": "3a0690ff5bc73243e2ee07d875a5912f",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927080108.png",
+      "Name": "20220927080108.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a57a04e117c4ae0ead83a1df",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a57a04e117c4ae0ead83a1df",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/3fef3f9a783b4be98459b387a20976fe.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927080117.png": {
+    "Entry": {
+      "Key": "3a0690ff7e9395ecc8e8ff177c1d0764",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927080117.png",
+      "Name": "20220927080117.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a5cfff94348b2f80e068e249",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a5cfff94348b2f80e068e249",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/9cee10cb6f424e2eb3a51e363a4cd3b9.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927101443.png": {
+    "Entry": {
+      "Key": "3a068ee67a89628c317cdbeac340f3cb",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927101443.png",
+      "Name": "20220927101443.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a618e92ff22206a67e3a3717",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a618e92ff22206a67e3a3717",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/dd30de0d7b4b42f08256a9fe141dc86d.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927103004.jpg": {
+    "Entry": {
+      "Key": "3a068ef4867b715ea0c7412e513e24db",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927103004.jpg",
+      "Name": "20220927103004.jpg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a6b49ae7200446aead3b1911",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a6b49ae7200446aead3b1911",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/981bbdddc49b43819c9e213837219a1e.jpg",
+      "FileType": 0,
+      "Suffix": ".jpg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927112619.png": {
+    "Entry": {
+      "Key": "3a068f280730654127fdc9dfac12cd64",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927112619.png",
+      "Name": "20220927112619.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a77e58876419e47f8f6811ff",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a77e58876419e47f8f6811ff",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/bdef88e658ed4227b51db8f5a990299d.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20220927115257.png": {
+    "Entry": {
+      "Key": "3a068f4066869daee08c93486c8f687b",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20220927115257.png",
+      "Name": "20220927115257.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a81bbe9a33d15c2ae9a6bea5",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a81bbe9a33d15c2ae9a6bea5",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-27/2dc4fcca20ed499ab8d47815e974382a.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20221018012915.png": {
+    "Entry": {
+      "Key": "3a06fbbe20eaff368cd1102bfc1fc223",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20221018012915.png",
+      "Name": "20221018012915.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a8b5e88b5a1398f63638e982",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a8b5e88b5a1398f63638e982",
+      "Path": "/inbiz/static/{AppId}/file/2022-10-18/33af601fd0524009b273aae7ec5c7a4f.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20221018012929.png": {
+    "Entry": {
+      "Key": "3a06fbbe53d941bb8c795bac0039f883",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20221018012929.png",
+      "Name": "20221018012929.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608a910c0638263c2d1f35004a7",
+      "IsSiteFile": false,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:32"
+    },
+    "File": {
+      "Id": "3a0d1608a910c0638263c2d1f35004a7",
+      "Path": "/inbiz/static/{AppId}/file/2022-10-18/c2f6b9f300fb4da7b9a3087ec0fae7d1.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": false,
+      "CreateOriginType": 0,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\environment\\": {
+    "Entry": {
+      "Key": "3a0ad3d19d8cd19a9baf065974950dda",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\environment\\",
+      "Name": "environment",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\icon\\": {
+    "Entry": {
+      "Key": "3a0671339f061e54f9d15f817c328cb0",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\icon\\",
+      "Name": "icon",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\icon\\默认分组\\": {
+    "Entry": {
+      "Key": "3a08b83e8e45aa5456afd25cf4da6841",
+      "ParentKey": "3a0671339f061e54f9d15f817c328cb0",
+      "Order": 0,
+      "NamePath": "Root\\System\\icon\\默认分组\\",
+      "Name": "默认分组",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\theme\\": {
+    "Entry": {
+      "Key": "3a0ac4a4a1e549a8bb3080709e8dad9f",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\theme\\",
+      "Name": "theme",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\": {
+    "Entry": {
+      "Key": "3a0d1608b3dc475c09e93d2250163080",
+      "ParentKey": "3a07f7af34653bcb1721db708c0effbe",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\",
+      "Name": "system",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:34"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\de\\": {
+    "Entry": {
+      "Key": "3a0d1608b3e821e16168a217cf2adcf0",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\",
+      "Name": "de",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:34"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\de\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b3f431afa55b51f192468af8",
+      "ParentKey": "3a0d1608b3e821e16168a217cf2adcf0",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:34"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ru\\": {
+    "Entry": {
+      "Key": "3a0d1608b48e5fdd7e8d3983d5b7ac7c",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\",
+      "Name": "ru",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ru\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b49ddfe81911114eee94297b",
+      "ParentKey": "3a0d1608b48e5fdd7e8d3983d5b7ac7c",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\asdad\\": {
+    "Entry": {
+      "Key": "3a0d1608b5a03a4d4bcf453cb5e6ac25",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\",
+      "Name": "asdad",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\asdad\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b5ae990af62929c69c13e535",
+      "ParentKey": "3a0d1608b5a03a4d4bcf453cb5e6ac25",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ru\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b63b8554e7385136d930b071",
+      "ParentKey": "3a0d1608b48e5fdd7e8d3983d5b7ac7c",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\de\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b6c9d53b37c6e028843023a4",
+      "ParentKey": "3a0d1608b3e821e16168a217cf2adcf0",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ceshi\\": {
+    "Entry": {
+      "Key": "3a0d1608b7438155aaf6b236d35f1b2f",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\",
+      "Name": "ceshi",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ceshi\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b74e843272ef106c69001563",
+      "ParentKey": "3a0d1608b7438155aaf6b236d35f1b2f",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ceshi\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b7d1309f6ca1b1e8273722e0",
+      "ParentKey": "3a0d1608b7438155aaf6b236d35f1b2f",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\aa\\": {
+    "Entry": {
+      "Key": "3a0d1608b84c3763da05fac8fb4bbcd2",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\",
+      "Name": "aa",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\aa\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b85959af78ffb9eeb7e4b6b9",
+      "ParentKey": "3a0d1608b84c3763da05fac8fb4bbcd2",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\asdad\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b8d78eedd362c4d17dd525b4",
+      "ParentKey": "3a0d1608b5a03a4d4bcf453cb5e6ac25",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\aa\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b952d150a36a4a52e1a6d097",
+      "ParentKey": "3a0d1608b84c3763da05fac8fb4bbcd2",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\kinds\\": {
+    "Entry": {
+      "Key": "3a0d1608bf48836b59728e6d2ae56bed",
+      "ParentKey": "3a07f7af34653bcb1721db708c0effbe",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\kinds\\",
+      "Name": "kinds",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:37"
+    },
+    "File": null
+  }
+}

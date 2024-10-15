@@ -1,0 +1,47 @@
+{
+  "DistDatas": [
+    {
+      "Value": "设计中",
+      "Text": "设计中",
+      "GroupId": "98d071023840490cb425d885ab669c63",
+      "ColumnSort": "0",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "测试中",
+      "Text": "测试中",
+      "GroupId": "98d071023840490cb425d885ab669c63",
+      "ColumnSort": "1",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "未启动",
+      "Text": "未启动",
+      "GroupId": "98d071023840490cb425d885ab669c63",
+      "ColumnSort": "2",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "已发布",
+      "Text": "已发布",
+      "GroupId": "98d071023840490cb425d885ab669c63",
+      "ColumnSort": "3",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "开发中",
+      "Text": "开发中",
+      "GroupId": "98d071023840490cb425d885ab669c63",
+      "ColumnSort": "4",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    }
+  ],
+  "Name": "状态",
+  "Key": "98d071023840490cb425d885ab669c63",
+  "IsCustomized": false
+}

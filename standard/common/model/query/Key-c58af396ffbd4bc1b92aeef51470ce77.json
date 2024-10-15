@@ -1,0 +1,191 @@
+{
+  "Key": "c58af396ffbd4bc1b92aeef51470ce77",
+  "Name": "项目列表",
+  "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+  "GroupKey": "0",
+  "MD5": "e228b5cb64718d011191dfbe9ef96e76",
+  "DataType": 0,
+  "UseCustomRelation": false,
+  "ConfigJson": {
+    "ModelQueryModelRelation": [
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "ModelName": "project",
+        "ParentModelKey": null,
+        "Children": null
+      },
+      {
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+        "ModelName": "region",
+        "ParentModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "Children": null
+      }
+    ],
+    "UseCustomRelation": false,
+    "CustomModelRelation": null,
+    "ModelQueryField": [
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "k1pbyfba6eexp8tmaeuqqr9xeazaxlwq",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "id",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "pqokffubgmy2az4zwxogjef06etsb9ck",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "name",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "iej00tulren59klpyzesnqhxuzkqupe8",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "number",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "fr498paabl2mymsvda6f577brszud4c0",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "remark",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "1vo77t7v5w583tio9t8pi6ta6y8phyrc",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "product",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "7q80tnnxnt33stcwz757l1442ylgrz2m",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "region",
+          "FormatType": 2,
+          "FormatTypeDetail": "",
+          "FormatTypeName": "text",
+          "MemberFormatType": "",
+          "ShowField": "text",
+          "RelationModel": "region",
+          "RelationField": "id",
+          "ModelType": 3,
+          "Children": null
+        },
+        "ModelName": "project",
+        "FieldName": "region",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "mvlwz8qgiqk1bcqv2xsf7i5gfn0nemv4",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "edition",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "077yxr2isfe7fsp085o4gsrqodvcutkt",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "status",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "6bz9ndgrxucjo535y98hldniw154gkt3",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "creatorid",
+          "FormatType": 1,
+          "FormatTypeDetail": "0",
+          "FormatTypeName": "用户",
+          "MemberFormatType": null,
+          "ShowField": null,
+          "RelationModel": null,
+          "RelationField": null,
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "project",
+        "FieldName": "creatorid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "zpjuek5o6qrq8qyyxkm41xrrzolnmbdq",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "lastmodifierid",
+          "FormatType": 1,
+          "FormatTypeDetail": "0",
+          "FormatTypeName": "用户",
+          "MemberFormatType": null,
+          "ShowField": null,
+          "RelationModel": null,
+          "RelationField": null,
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "project",
+        "FieldName": "lastmodifierid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+        "FieldKey": "dac81a3d594d45ab96817aec0c3be132",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "project",
+        "FieldName": "regionid",
+        "AnotherName": null
+      }
+    ],
+    "FixedCondition": {
+      "ConditionStr": ""
+    },
+    "FilterType": 2,
+    "SortConfigs": [],
+    "Key": null
+  },
+  "IsCustomized": false,
+  "CreateOriginType": 0
+}

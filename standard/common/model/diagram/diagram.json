@@ -1,0 +1,63 @@
+[
+  {
+    "Key": "3b9a0d00e7454f51b280caaa3aa88265",
+    "ModuleKey": "e58be8a910fc444b885954aef5af7e2b_default",
+    "Name": "默认关系图",
+    "Models": [
+      {
+        "X": "110",
+        "Y": "80",
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf"
+      },
+      {
+        "X": "550",
+        "Y": "390",
+        "ModelKey": "91b49b69-9369-400b-b3f4-e61386fb27d3"
+      }
+    ],
+    "Relations": [],
+    "IsCustomized": false
+  },
+  {
+    "Key": "7f5a883dd8654b289f83e3c205d1fdd8",
+    "ModuleKey": "477386ac5fa24238a18c342afa337d2b",
+    "Name": "默认关系图",
+    "Models": [
+      {
+        "X": "900",
+        "Y": "175",
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd"
+      },
+      {
+        "X": "190",
+        "Y": "140",
+        "ModelKey": "c4748b04-8fa2-43b3-b378-18d7d0e3d790"
+      }
+    ],
+    "Relations": [
+      "395fea86-993a-404a-b2ee-87cb5ae6e0bf"
+    ],
+    "IsCustomized": false
+  },
+  {
+    "Key": "514eb273c1bb44379468b29aa634cc51",
+    "ModuleKey": "1d4a5d4c74ab4ce1b8030355ed067f13",
+    "Name": "默认关系图",
+    "Models": [
+      {
+        "X": "590",
+        "Y": "200",
+        "ModelKey": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd"
+      },
+      {
+        "X": "270",
+        "Y": "170",
+        "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10"
+      }
+    ],
+    "Relations": [
+      "4e094cbe-deb3-4bb3-9df9-75358acd75d6"
+    ],
+    "IsCustomized": false
+  }
+]

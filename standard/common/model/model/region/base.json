@@ -1,0 +1,17 @@
+{
+  "Key": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+  "ModuleName": "基础表格",
+  "ModuleKey": "1d4a5d4c74ab4ce1b8030355ed067f13",
+  "Name": "region",
+  "Describe": "模型名称",
+  "PublishState": 1,
+  "ModelType": 3,
+  "RelationField": "",
+  "FictitiousReadonly": true,
+  "StructureType": null,
+  "IsDeleted": false,
+  "ContainDefaultField": false,
+  "IsCustomized": false,
+  "CreateOriginType": 0,
+  "BusinessKey": null
+}

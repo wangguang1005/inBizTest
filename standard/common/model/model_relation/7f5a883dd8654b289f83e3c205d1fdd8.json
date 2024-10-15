@@ -1,0 +1,18 @@
+[
+  {
+    "key": "395fea86-993a-404a-b2ee-87cb5ae6e0bf",
+    "t": "one-to-many",
+    "sk": "c4748b04-8fa2-43b3-b378-18d7d0e3d790",
+    "sn": "ht",
+    "sty": 0,
+    "srid": "",
+    "tk": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+    "tn": "sk",
+    "tty": 0,
+    "trid": "",
+    "rn": "ht_sk",
+    "rty": 0,
+    "pubstate": 1,
+    "iscus": false
+  }
+]

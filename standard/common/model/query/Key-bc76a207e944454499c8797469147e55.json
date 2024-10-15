@@ -1,0 +1,178 @@
+{
+  "Key": "bc76a207e944454499c8797469147e55",
+  "Name": "sk_b38fb196",
+  "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+  "GroupKey": "0",
+  "MD5": "90ea69450664c1fdfbbaf425eb1b9f1e",
+  "DataType": 0,
+  "UseCustomRelation": false,
+  "ConfigJson": {
+    "ModelQueryModelRelation": [
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "ModelName": "sk",
+        "ParentModelKey": null,
+        "Children": null
+      },
+      {
+        "ModelKey": "c4748b04-8fa2-43b3-b378-18d7d0e3d790",
+        "ModelName": "ht",
+        "ParentModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "Children": null
+      }
+    ],
+    "UseCustomRelation": false,
+    "CustomModelRelation": null,
+    "ModelQueryField": [
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "vebxwfwis0n1zv4svt12xp2lncpgpxck",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "id",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "b4ssjfuolqo9hpzyp15vusif1473tfvb",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "jd",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "07ytgwa1rogca1hrds4f9ctg7kw0duta",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "ysje",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "0e5lqnig7mspp0f2sfvswmvbn2iiv940",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "skdate",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "ztiog1aojqfhb54ak3qcf27hk8zzfy24",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "skbz",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "goaw15dzs3nvw48es98xdjosj8oyih41",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "isdeleted",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "g45fzdrjqrfa72f8ngpv4e9slfr2b1c5",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "creatorid",
+          "FormatType": 1,
+          "FormatTypeDetail": "0",
+          "FormatTypeName": "用户",
+          "MemberFormatType": null,
+          "ShowField": null,
+          "RelationModel": null,
+          "RelationField": null,
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "sk",
+        "FieldName": "creatorid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "jb0uei1khlq0377vfmcbyg9bx3p5g3kd",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "creationtime",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "jm7nywt1bmq1evirnv8gyen8q62uibhx",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "lastmodifierid",
+          "FormatType": 1,
+          "FormatTypeDetail": "0",
+          "FormatTypeName": "用户",
+          "MemberFormatType": null,
+          "ShowField": null,
+          "RelationModel": null,
+          "RelationField": null,
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "sk",
+        "FieldName": "lastmodifierid",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": "mbpy13xgylakegiibrocsuo14kq3x7c9",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "lastmodificationtime",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd",
+        "FieldKey": null,
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "sk",
+        "FieldName": "htid",
+        "AnotherName": null
+      }
+    ],
+    "FixedCondition": null,
+    "FilterType": 2,
+    "SortConfigs": null,
+    "Key": "bc76a207e944454499c8797469147e55"
+  },
+  "IsCustomized": false,
+  "CreateOriginType": 0
+}

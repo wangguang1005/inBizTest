@@ -1,0 +1,23 @@
+{
+  "Id": "1474fc79741e4308bc909d76df86b75d",
+  "QueryKey": "bc76a207e944454499c8797469147e55",
+  "QueryConfig": {
+    "ooc": [
+      {
+        "mm": "sk",
+        "mr": "ht",
+        "fm": "htid",
+        "fr": "id",
+        "it": true,
+        "wf": null,
+        "mmv": false,
+        "mrv": false,
+        "em": null,
+        "ty": "r-one-to-many"
+      }
+    ],
+    "omc": [],
+    "mmc": []
+  },
+  "ModelKey": "e2758dd5-6c82-4f72-a015-d02235a9f6cd"
+}

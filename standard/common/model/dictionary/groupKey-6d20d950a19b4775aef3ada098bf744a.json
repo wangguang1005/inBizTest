@@ -1,0 +1,47 @@
+{
+  "DistDatas": [
+    {
+      "Value": "0",
+      "Text": "没用过",
+      "GroupId": "6d20d950a19b4775aef3ada098bf744a",
+      "ColumnSort": "0",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "1",
+      "Text": "很少",
+      "GroupId": "6d20d950a19b4775aef3ada098bf744a",
+      "ColumnSort": "1",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "2",
+      "Text": "每月一次",
+      "GroupId": "6d20d950a19b4775aef3ada098bf744a",
+      "ColumnSort": "2",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "3",
+      "Text": "每周一次",
+      "GroupId": "6d20d950a19b4775aef3ada098bf744a",
+      "ColumnSort": "3",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "4",
+      "Text": "每天",
+      "GroupId": "6d20d950a19b4775aef3ada098bf744a",
+      "ColumnSort": "4",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    }
+  ],
+  "Name": "使用频率",
+  "Key": "6d20d950a19b4775aef3ada098bf744a",
+  "IsCustomized": false
+}

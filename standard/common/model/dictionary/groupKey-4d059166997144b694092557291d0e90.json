@@ -1,0 +1,39 @@
+{
+  "DistDatas": [
+    {
+      "Value": "0",
+      "Text": "不满意",
+      "GroupId": "4d059166997144b694092557291d0e90",
+      "ColumnSort": "0",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "1",
+      "Text": "一般",
+      "GroupId": "4d059166997144b694092557291d0e90",
+      "ColumnSort": "1",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "2",
+      "Text": "满意",
+      "GroupId": "4d059166997144b694092557291d0e90",
+      "ColumnSort": "2",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "3",
+      "Text": "非常满意",
+      "GroupId": "4d059166997144b694092557291d0e90",
+      "ColumnSort": "3",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    }
+  ],
+  "Name": "能力",
+  "Key": "4d059166997144b694092557291d0e90",
+  "IsCustomized": false
+}

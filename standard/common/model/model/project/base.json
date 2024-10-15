@@ -1,0 +1,17 @@
+{
+  "Key": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+  "ModuleName": "基础表格",
+  "ModuleKey": "1d4a5d4c74ab4ce1b8030355ed067f13",
+  "Name": "project",
+  "Describe": "模型名称",
+  "PublishState": 1,
+  "ModelType": 0,
+  "RelationField": "",
+  "FictitiousReadonly": true,
+  "StructureType": null,
+  "IsDeleted": false,
+  "ContainDefaultField": false,
+  "IsCustomized": false,
+  "CreateOriginType": 0,
+  "BusinessKey": null
+}

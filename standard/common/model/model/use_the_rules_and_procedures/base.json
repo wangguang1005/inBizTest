@@ -1,0 +1,17 @@
+{
+  "Key": "mde_rfD1s7fD",
+  "ModuleName": "流程",
+  "ModuleKey": "477386ac5fa24238a18c342afa337d2b",
+  "Name": "use_the_rules_and_procedures",
+  "Describe": "用章流程",
+  "PublishState": 1,
+  "ModelType": 0,
+  "RelationField": null,
+  "FictitiousReadonly": true,
+  "StructureType": null,
+  "IsDeleted": true,
+  "ContainDefaultField": true,
+  "IsCustomized": false,
+  "CreateOriginType": 0,
+  "BusinessKey": null
+}

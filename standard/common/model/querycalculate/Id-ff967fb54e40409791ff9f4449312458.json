@@ -1,0 +1,23 @@
+{
+  "Id": "ff967fb54e40409791ff9f4449312458",
+  "QueryKey": "8d7509fb554a4218be5f22ed835e7626",
+  "QueryConfig": {
+    "ooc": [],
+    "omc": [
+      {
+        "mm": "region",
+        "mr": "project",
+        "fm": "id",
+        "fr": "regionid",
+        "it": false,
+        "wf": null,
+        "mmv": false,
+        "mrv": false,
+        "em": null,
+        "ty": "one-to-many"
+      }
+    ],
+    "mmc": []
+  },
+  "ModelKey": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10"
+}

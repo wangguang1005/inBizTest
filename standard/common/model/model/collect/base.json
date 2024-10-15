@@ -1,0 +1,17 @@
+{
+  "Key": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+  "ModuleName": "默认模块",
+  "ModuleKey": "e58be8a910fc444b885954aef5af7e2b_default",
+  "Name": "collect",
+  "Describe": "模型名称",
+  "PublishState": 1,
+  "ModelType": 0,
+  "RelationField": "",
+  "FictitiousReadonly": true,
+  "StructureType": null,
+  "IsDeleted": true,
+  "ContainDefaultField": true,
+  "IsCustomized": false,
+  "CreateOriginType": 0,
+  "BusinessKey": null
+}

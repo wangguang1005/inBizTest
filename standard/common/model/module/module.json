@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "默认模块",
+    "Key": "e58be8a910fc444b885954aef5af7e2b_default",
+    "IsSystem": true,
+    "IsDynamic": false,
+    "IsCustomized": false,
+    "CreateOriginType": 0
+  },
+  {
+    "Name": "流程",
+    "Key": "477386ac5fa24238a18c342afa337d2b",
+    "IsSystem": false,
+    "IsDynamic": false,
+    "IsCustomized": false,
+    "CreateOriginType": 0
+  },
+  {
+    "Name": "评价反馈",
+    "Key": "mdu_JItKQR68",
+    "IsSystem": false,
+    "IsDynamic": false,
+    "IsCustomized": false,
+    "CreateOriginType": 0
+  },
+  {
+    "Name": "基础表格",
+    "Key": "1d4a5d4c74ab4ce1b8030355ed067f13",
+    "IsSystem": false,
+    "IsDynamic": false,
+    "IsCustomized": false,
+    "CreateOriginType": 0
+  }
+]

@@ -1,0 +1,550 @@
+{
+  "content": {
+    "form": {
+      "labelCol": 6,
+      "wrapperCol": 18,
+      "layout": "vertical",
+      "labelAlign": "left",
+      "model": {
+        "ModelKey": "mde_FyJAE3d5",
+        "ModuleId": "477386ac5fa24238a18c342afa337d2b",
+        "Name": "business_opportunities",
+        "Describe": "客户商机",
+        "ModelType": 0
+      }
+    },
+    "schema": {
+      "type": "object",
+      "properties": {
+        "EformInput_mku5a2i741": {
+          "type": "string",
+          "title": {
+            "value": "客户名称",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformInput",
+          "x-component-props": {
+            "defaultValueType": "custom",
+            "systemDefaultValue": "System_Var_LoginUserID",
+            "type": "text",
+            "placeholder": "EformInput.placeholder",
+            "allowClear": true,
+            "autoComplete": false,
+            "model": {
+              "Name": "b_name",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "客户名称",
+              "Scale": 0,
+              "Key": "fie_o9TjzYHk",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformInputContainer  wap",
+            "data-designer-node-id": "mficc4fr5la"
+          },
+          "name": "EformInput_mku5a2i741",
+          "x-validator": [],
+          "required": true,
+          "x-designable-id": "mficc4fr5la",
+          "x-index": 0
+        },
+        "EformStaticList_u9j4hlal9e": {
+          "type": "sting",
+          "title": {
+            "value": "客户类别",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformStaticList",
+          "x-component-props": {
+            "selectMode": false,
+            "showMode": 1,
+            "placeholder": "EformStaticListView.placeholder",
+            "defaultValue": [],
+            "label": {
+              "status": true,
+              "value": "静态列表"
+            },
+            "autoLoading": true,
+            "labelDirection": "left",
+            "layoutMode": "portrait",
+            "placeholder1": "点击选择",
+            "selectWindowHeight": 50,
+            "value": "",
+            "disabledOptions": [],
+            "hideDisabledOptions": false,
+            "staticDataList": "4dafdbde81ad41679551a7756e942072",
+            "dataType": "system",
+            "dataGroupId": "4dafdbde81ad41679551a7756e942072",
+            "model": {
+              "Name": "b_type",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "客户类别",
+              "Scale": 0,
+              "Key": "fie_zKXkh012",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformStaticListContainer  wap",
+            "data-designer-node-id": "q5gwf7wtz29"
+          },
+          "name": "EformStaticList_u9j4hlal9e",
+          "required": true,
+          "x-designable-id": "q5gwf7wtz29",
+          "x-index": 1
+        },
+        "EformInput_h5kphzx2yc": {
+          "type": "string",
+          "title": {
+            "value": "联系人",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformInput",
+          "x-component-props": {
+            "defaultValueType": "custom",
+            "systemDefaultValue": "System_Var_LoginUserID",
+            "type": "text",
+            "placeholder": "EformInput.placeholder",
+            "allowClear": true,
+            "autoComplete": false,
+            "model": {
+              "Name": "b_people",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "联系人",
+              "Scale": 0,
+              "Key": "fie_sMFGxKv9",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformInputContainer  wap",
+            "data-designer-node-id": "gnpsx44iszf"
+          },
+          "name": "EformInput_h5kphzx2yc",
+          "required": true,
+          "x-designable-id": "gnpsx44iszf",
+          "x-index": 2
+        },
+        "EformInput_si9y8f3o70": {
+          "type": "string",
+          "title": {
+            "value": "联系电话",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformInput",
+          "x-component-props": {
+            "defaultValueType": "custom",
+            "systemDefaultValue": "System_Var_LoginUserID",
+            "type": "text",
+            "placeholder": "EformInput.placeholder",
+            "allowClear": true,
+            "autoComplete": false,
+            "model": {
+              "Name": "b_phone",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "联系电话",
+              "Scale": 0,
+              "Key": "fie_y9c5XYcN",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformInputContainer  wap",
+            "data-designer-node-id": "n57gx5e16qv"
+          },
+          "name": "EformInput_si9y8f3o70",
+          "x-validator": "phone",
+          "required": true,
+          "x-designable-id": "n57gx5e16qv",
+          "x-index": 3
+        },
+        "EformInput_wq5ymu5lmy": {
+          "type": "string",
+          "title": {
+            "value": "联系地址",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformInput",
+          "x-component-props": {
+            "defaultValueType": "custom",
+            "systemDefaultValue": "System_Var_LoginUserID",
+            "type": "text",
+            "placeholder": "EformInput.placeholder",
+            "allowClear": true,
+            "autoComplete": false,
+            "model": {
+              "Name": "b_address",
+              "InnerType": "string",
+              "Type": "varchar",
+              "Length": 100,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "联系地址",
+              "Scale": 0,
+              "Key": "fie_k7qiLvRC",
+              "ModelName": null,
+              "TypeCN": "文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformInputContainer  wap",
+            "data-designer-node-id": "09m0a5pr3x3"
+          },
+          "name": "EformInput_wq5ymu5lmy",
+          "required": true,
+          "x-designable-id": "09m0a5pr3x3",
+          "x-index": 4
+        },
+        "EformTextArea_1xp11ca8bd": {
+          "type": "string",
+          "title": {
+            "value": "其他说明",
+            "status": true
+          },
+          "x-decorator": "FormItem",
+          "x-component": "EformTextArea",
+          "x-component-props": {
+            "defaultValue": "",
+            "placeholder": "EformTextArea.placeholder",
+            "showCount": false,
+            "model": {
+              "Name": "b_other",
+              "InnerType": "string",
+              "Type": "text",
+              "Length": 0,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "其他说明",
+              "Scale": 0,
+              "Key": "fie_LiSVWPyZ",
+              "ModelName": null,
+              "TypeCN": "长文本"
+            },
+            "modelend": {}
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "EformTextAreaContainer  wap",
+            "data-designer-node-id": "rad1z2q11hn"
+          },
+          "name": "EformTextArea_1xp11ca8bd",
+          "x-designable-id": "rad1z2q11hn",
+          "x-index": 5
+        },
+        "FileUpload_4gbomar9qm": {
+          "type": "string",
+          "title": {
+            "status": true,
+            "value": "fileUpload.title"
+          },
+          "x-decorator": "FormItemVertical",
+          "x-component": "FileUpload",
+          "x-component-props": {
+            "repeatStrategy": "majorUpgrade",
+            "childrenFolder": false,
+            "multiple": false,
+            "thumbnail": false,
+            "fixedHeight": false,
+            "maxNumber": "",
+            "childModelConfig": false,
+            "fileSize": "100MB",
+            "placeHolderWap": "fileUpload.placeHolderWap",
+            "placeHolderWeb": "fileUpload.uploadFile",
+            "model": {
+              "Name": "b_file",
+              "InnerType": "string",
+              "Type": "text",
+              "Length": 0,
+              "Primary": false,
+              "Unique": false,
+              "IsNull": true,
+              "IsGenerated": false,
+              "DefaultVal": null,
+              "Display": true,
+              "Describe": "文件上传",
+              "Scale": 0,
+              "Key": "fie_2EIsPp3C",
+              "ModelName": null,
+              "TypeCN": "长文本"
+            },
+            "modelend": {}
+          },
+          "x-component-biz-props": {
+            "targetFolderType": "enterpriseLib",
+            "targetFolder": [
+              {
+                "folderid": 101,
+                "areaid": -1,
+                "parentfolderid": 1,
+                "foldercode": "",
+                "foldersortorder": -1,
+                "foldername": "03内部测试",
+                "folderpath": "1\\101",
+                "foldersize": 12904296739,
+                "foldermaxfoldersize": 0,
+                "folderalertsize": 0,
+                "foldermaxfilesize": 0,
+                "folderforbiddenfileextensions": "",
+                "folderchildfolderscount": 1671,
+                "folderchildfilescount": 2206,
+                "securitylevelid": 0,
+                "folderstate": 0,
+                "folderlockcount": -1,
+                "foldercreatetime": "2022-06-06 15:09:43",
+                "foldercreateoperator": 2,
+                "foldercreateoperatorname": "Administrator",
+                "foldermodifytime": "2023-04-17 17:14:55",
+                "foldermodifyoperator": 1115,
+                "foldermodifyoperatorname": "张国辉",
+                "folderarchivetime": "0001-01-01 08:05:00",
+                "folderarchiveoperator": -1,
+                "foldercurverid": -1,
+                "foldernewestverid": -1,
+                "foldertype": 1,
+                "folderguid": "07476a61-0190-46e6-9056-06c60ce3733a",
+                "folderownerid": 2,
+                "folderofflinepermission": 1,
+                "isdeleted": false,
+                "folderdeletetime": "0001-01-01 08:05:00",
+                "folderdeleteoperator": -1,
+                "folderdeleteoperatorname": null,
+                "folderiscascadedelete": false,
+                "folderpurge": -1,
+                "folderpurgetime": "0001-01-01 08:05:00",
+                "folderpurgeoperator": -1,
+                "folderpurgeoperatorname": null,
+                "folderverstrategy": -1,
+                "foldercreatetype": -1,
+                "folderdefaultviewid": -1,
+                "folderpermstrategy": -1,
+                "instanceid": 1,
+                "name": "03内部测试",
+                "relativepath": "企业库\\03内部测试",
+                "teamicon": null,
+                "children": null,
+                "childrenpagesize": 0,
+                "childrentotalcount": 0,
+                "toptargetfoldername": null,
+                "key": 101,
+                "address": "企业库/03内部测试",
+                "id": 101
+              }
+            ]
+          },
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px",
+              "borderBottomWidth": "1px",
+              "borderBottomStyle": "solid",
+              "borderBottomColor": "#ddd"
+            },
+            "className": "FileUploadContainer  wap",
+            "data-designer-node-id": "verokvcpkzp",
+            "colon": false
+          },
+          "name": "FileUpload_4gbomar9qm",
+          "x-designable-id": "verokvcpkzp",
+          "x-index": 6
+        },
+        "ProcessButton_ecf1whvj2k": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "className": "ProcessButtonContainer  wap",
+            "data-designer-node-id": "t2z8yz0fcwt"
+          },
+          "x-component": "ProcessButton",
+          "x-component-props": {
+            "tips": "",
+            "buttonVisible": "visible",
+            "webbuttonConfig": [
+              {
+                "action": "initiate",
+                "name": "processButton.initiate",
+                "type": "initiate",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "approve",
+                "name": "processButton.approve",
+                "type": "approve",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "returnsBack",
+                "name": "processButton.returnsBack",
+                "type": "returnsBack",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "cancel",
+                "name": "processButton.cancel",
+                "type": "cancel",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              }
+            ],
+            "wapbuttonConfig": [
+              {
+                "action": "initiate",
+                "name": "processbutton.initiate",
+                "type": "initiate",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "approve",
+                "name": "processButton.approve",
+                "type": "approve",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "returnsBack",
+                "name": "processButton.returnPrestep",
+                "type": "returnsBack",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              },
+              {
+                "action": "cancel",
+                "name": "processButton.cancel",
+                "type": "cancel",
+                "bgColor": "#1989fa",
+                "id": "",
+                "taskType": "faqishenqing"
+              }
+            ],
+            "radius": 4,
+            "showCCmember": true,
+            "showComment": true
+          },
+          "name": "ProcessButton_ecf1whvj2k",
+          "x-designable-id": "t2z8yz0fcwt",
+          "x-index": 7
+        },
+        "ProcessLogBtn_qw0b3bwu3k": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "className": "ProcessLogBtnContainer  wap",
+            "data-designer-node-id": "3fkztvlib4h"
+          },
+          "x-component": "ProcessLogBtn",
+          "x-component-props": {
+            "minWidth": 100,
+            "maxWidth": "",
+            "text": "button",
+            "type": "primary"
+          },
+          "name": "ProcessLogBtn_qw0b3bwu3k",
+          "x-designable-id": "3fkztvlib4h",
+          "x-index": 8
+        }
+      },
+      "x-designable-id": "x9gu510864g"
+    }
+  }
+}

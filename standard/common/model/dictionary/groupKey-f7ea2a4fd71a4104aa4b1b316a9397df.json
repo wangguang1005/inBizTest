@@ -1,0 +1,31 @@
+{
+  "DistDatas": [
+    {
+      "Value": "InSight",
+      "Text": "InSight",
+      "GroupId": "f7ea2a4fd71a4104aa4b1b316a9397df",
+      "ColumnSort": "0",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "ECM",
+      "Text": "ECM",
+      "GroupId": "f7ea2a4fd71a4104aa4b1b316a9397df",
+      "ColumnSort": "1",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "InBiz",
+      "Text": "InBiz",
+      "GroupId": "f7ea2a4fd71a4104aa4b1b316a9397df",
+      "ColumnSort": "2",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    }
+  ],
+  "Name": "产品",
+  "Key": "f7ea2a4fd71a4104aa4b1b316a9397df",
+  "IsCustomized": false
+}

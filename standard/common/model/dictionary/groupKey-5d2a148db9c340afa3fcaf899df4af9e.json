@@ -1,0 +1,39 @@
+{
+  "DistDatas": [
+    {
+      "Value": "上海鸿翼软件技术股份有限公司",
+      "Text": "上海鸿翼软件技术股份有限公司",
+      "GroupId": "5d2a148db9c340afa3fcaf899df4af9e",
+      "ColumnSort": "0",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "上海鸿翼医药信息技术有限公司",
+      "Text": "上海鸿翼医药信息技术有限公司",
+      "GroupId": "5d2a148db9c340afa3fcaf899df4af9e",
+      "ColumnSort": "1",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "上海鸿翼档案信息技术有限公司",
+      "Text": "上海鸿翼档案信息技术有限公司",
+      "GroupId": "5d2a148db9c340afa3fcaf899df4af9e",
+      "ColumnSort": "2",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "重庆鸿翼信息技术有限公司",
+      "Text": "重庆鸿翼信息技术有限公司",
+      "GroupId": "5d2a148db9c340afa3fcaf899df4af9e",
+      "ColumnSort": "3",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    }
+  ],
+  "Name": "工商主体",
+  "Key": "5d2a148db9c340afa3fcaf899df4af9e",
+  "IsCustomized": false
+}

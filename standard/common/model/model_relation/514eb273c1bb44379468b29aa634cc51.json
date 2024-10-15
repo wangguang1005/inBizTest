@@ -1,0 +1,18 @@
+[
+  {
+    "key": "4e094cbe-deb3-4bb3-9df9-75358acd75d6",
+    "t": "one-to-many",
+    "sk": "4eb28ee6-87fd-4721-bf52-7a9ed32aff10",
+    "sn": "region",
+    "sty": 3,
+    "srid": "",
+    "tk": "2ea53c5e-cb2d-4581-ae5d-45c0a29d64fd",
+    "tn": "project",
+    "tty": 0,
+    "trid": "",
+    "rn": "region_project",
+    "rty": 0,
+    "pubstate": 1,
+    "iscus": false
+  }
+]

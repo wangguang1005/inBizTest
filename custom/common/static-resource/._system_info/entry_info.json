@@ -1,0 +1,969 @@
+{
+  "Root\\System\\environment\\": {
+    "Entry": {
+      "Key": "3a0ad3d19d8cd19a9baf065974950dda",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\environment\\",
+      "Name": "environment",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\icon\\": {
+    "Entry": {
+      "Key": "3a0671339f061e54f9d15f817c328cb0",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\icon\\",
+      "Name": "icon",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\icon\\默认分组\\": {
+    "Entry": {
+      "Key": "3a08b83e8e45aa5456afd25cf4da6841",
+      "ParentKey": "3a0671339f061e54f9d15f817c328cb0",
+      "Order": 0,
+      "NamePath": "Root\\System\\icon\\默认分组\\",
+      "Name": "默认分组",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\theme\\": {
+    "Entry": {
+      "Key": "3a0ac4a4a1e549a8bb3080709e8dad9f",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\theme\\",
+      "Name": "theme",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": null
+  },
+  "Root\\System\\20230424044503.svg": {
+    "Entry": {
+      "Key": "3a0ac49cf26d489ce1c905c790e1f4df",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20230424044503.svg",
+      "Name": "20230424044503.svg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608ab3f2e7b01b331092bc51227",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": {
+      "Id": "3a0d1608ab3f2e7b01b331092bc51227",
+      "Path": "/inbiz/static/{AppId}/file/2023-04-24/6861d34632844d08a935676353374c5e.svg",
+      "FileType": 0,
+      "Suffix": ".svg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20230813121636.png": {
+    "Entry": {
+      "Key": "3a0cfcb5e5c5ee212b703fe40c83ee21",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20230813121636.png",
+      "Name": "20230813121636.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608ab91ca0b6c3bb53da389b7ea",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": {
+      "Id": "3a0d1608ab91ca0b6c3bb53da389b7ea",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-13/85e160dfe70e4956a0278ac10da1b7e1.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\3a068a7a7de88592198e21b452d16472.png": {
+    "Entry": {
+      "Key": "3a068a7a872719753969a0c5e95d0025",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\3a068a7a7de88592198e21b452d16472.png",
+      "Name": "3a068a7a7de88592198e21b452d16472.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608abc362724de875eb9151bf9e",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": {
+      "Id": "3a0d1608abc362724de875eb9151bf9e",
+      "Path": "/inbiz/static/{AppId}/file/2022-09-26/8de685a904e940cc9078c8a82b145ce1.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\icon\\默认分组\\功能图标20230117204239.svg": {
+    "Entry": {
+      "Key": "3a08d1ed9f1332648abbc88155889777",
+      "ParentKey": "3a08b83e8e45aa5456afd25cf4da6841",
+      "Order": 0,
+      "NamePath": "Root\\System\\icon\\默认分组\\功能图标20230117204239.svg",
+      "Name": "功能图标20230117204239.svg",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608abf8790d5ac67af01bafc9ca",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": {
+      "Id": "3a0d1608abf8790d5ac67af01bafc9ca",
+      "Path": "/inbiz/static/{AppId}/file/2023-01-17/b771a95d7b5b457c89e573dd7aee39bd.svg",
+      "FileType": 0,
+      "Suffix": ".svg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\theme\\3a0ac49949039d9622c85a3a25671eb3.json": {
+    "Entry": {
+      "Key": "3a0ac4a4a1eacf31980e17a5f95d80aa",
+      "ParentKey": "3a0ac4a4a1e549a8bb3080709e8dad9f",
+      "Order": 0,
+      "NamePath": "Root\\System\\theme\\3a0ac49949039d9622c85a3a25671eb3.json",
+      "Name": "3a0ac49949039d9622c85a3a25671eb3.json",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608ad86d487777aa44ab91b0886",
+      "IsSiteFile": true,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": "Web",
+      "CreationTime": "2023-08-17 22:17:33"
+    },
+    "File": {
+      "Id": "3a0d1608ad86d487777aa44ab91b0886",
+      "Path": "/inbiz/static/{AppId}/sitefile/3a0ac49949039d9622c85a3a25671eb3/98e113d42f3f5fc2.json",
+      "FileType": 3,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": "3a0ac49949039d9622c85a3a25671eb3",
+      "PackagePath": "",
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": "Web"
+    }
+  },
+  "Root\\System\\lang\\system\\": {
+    "Entry": {
+      "Key": "3a0d1608b3dc475c09e93d2250163080",
+      "ParentKey": "3a07f7af34653bcb1721db708c0effbe",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\",
+      "Name": "system",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:34"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\de\\": {
+    "Entry": {
+      "Key": "3a0d1608b3e821e16168a217cf2adcf0",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\",
+      "Name": "de",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:34"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\de\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b3f431afa55b51f192468af8",
+      "ParentKey": "3a0d1608b3e821e16168a217cf2adcf0",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:34"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\de\\notice\\lang638279074547069348.json": {
+    "Entry": {
+      "Key": "3a0d1608b402c895dff9012ccd2278a3",
+      "ParentKey": "3a0d1608b3f431afa55b51f192468af8",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\notice\\lang638279074547069348.json",
+      "Name": "lang638279074547069348.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b3c78c6ae7d67c2db8913a58",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:34"
+    },
+    "File": {
+      "Id": "3a0d1608b3c78c6ae7d67c2db8913a58",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/413c9318d98e45c48ea78cef44182eff.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\ru\\": {
+    "Entry": {
+      "Key": "3a0d1608b48e5fdd7e8d3983d5b7ac7c",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\",
+      "Name": "ru",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ru\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b49ddfe81911114eee94297b",
+      "ParentKey": "3a0d1608b48e5fdd7e8d3983d5b7ac7c",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ru\\systemcomponents\\lang638279074550019298.json": {
+    "Entry": {
+      "Key": "3a0d1608b4a8b13ffe11b420a98691a6",
+      "ParentKey": "3a0d1608b49ddfe81911114eee94297b",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\systemcomponents\\lang638279074550019298.json",
+      "Name": "lang638279074550019298.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b473ac75998236ff2fb9ffa1",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": {
+      "Id": "3a0d1608b473ac75998236ff2fb9ffa1",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/94a487d4d47a410498859bc5b68dd478.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\asdad\\": {
+    "Entry": {
+      "Key": "3a0d1608b5a03a4d4bcf453cb5e6ac25",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\",
+      "Name": "asdad",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\asdad\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b5ae990af62929c69c13e535",
+      "ParentKey": "3a0d1608b5a03a4d4bcf453cb5e6ac25",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\asdad\\systemcomponents\\lang638279074551702094.json": {
+    "Entry": {
+      "Key": "3a0d1608b5b93e7466572d54dc9520ac",
+      "ParentKey": "3a0d1608b5ae990af62929c69c13e535",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\systemcomponents\\lang638279074551702094.json",
+      "Name": "lang638279074551702094.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b5846ea79f7665d320ae63fe",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": {
+      "Id": "3a0d1608b5846ea79f7665d320ae63fe",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/b0db582c0f864f959150717eab2c3f0b.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\ru\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b63b8554e7385136d930b071",
+      "ParentKey": "3a0d1608b48e5fdd7e8d3983d5b7ac7c",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ru\\notice\\lang638279074554395915.json": {
+    "Entry": {
+      "Key": "3a0d1608b64926ab9082db5d9924e58f",
+      "ParentKey": "3a0d1608b63b8554e7385136d930b071",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ru\\notice\\lang638279074554395915.json",
+      "Name": "lang638279074554395915.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b615a05e53e36c03afc93ff4",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": {
+      "Id": "3a0d1608b615a05e53e36c03afc93ff4",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/462fda4d6fbe484281dea8f5d25dbe99.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\de\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b6c9d53b37c6e028843023a4",
+      "ParentKey": "3a0d1608b3e821e16168a217cf2adcf0",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\de\\systemcomponents\\lang638279074555844174.json": {
+    "Entry": {
+      "Key": "3a0d1608b6d3fbf725cca32f7b62c3fc",
+      "ParentKey": "3a0d1608b6c9d53b37c6e028843023a4",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\de\\systemcomponents\\lang638279074555844174.json",
+      "Name": "lang638279074555844174.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b6abdc456c109fbc95523965",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": {
+      "Id": "3a0d1608b6abdc456c109fbc95523965",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/3f45f9f5d6584085bc08f151820e020a.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\ceshi\\": {
+    "Entry": {
+      "Key": "3a0d1608b7438155aaf6b236d35f1b2f",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\",
+      "Name": "ceshi",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ceshi\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b74e843272ef106c69001563",
+      "ParentKey": "3a0d1608b7438155aaf6b236d35f1b2f",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ceshi\\notice\\lang638279074557191397.json": {
+    "Entry": {
+      "Key": "3a0d1608b757174cc799abab09fa3288",
+      "ParentKey": "3a0d1608b74e843272ef106c69001563",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\notice\\lang638279074557191397.json",
+      "Name": "lang638279074557191397.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b72b4eab38ee71286d859b7b",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": {
+      "Id": "3a0d1608b72b4eab38ee71286d859b7b",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/67946f67e94d48f983cec9e7779defbb.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\ceshi\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b7d1309f6ca1b1e8273722e0",
+      "ParentKey": "3a0d1608b7438155aaf6b236d35f1b2f",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\ceshi\\systemcomponents\\lang638279074558524968.json": {
+    "Entry": {
+      "Key": "3a0d1608b7dad57c802298c1032de7d3",
+      "ParentKey": "3a0d1608b7d1309f6ca1b1e8273722e0",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\ceshi\\systemcomponents\\lang638279074558524968.json",
+      "Name": "lang638279074558524968.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b7bc11a2689e4788798ccb24",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:35"
+    },
+    "File": {
+      "Id": "3a0d1608b7bc11a2689e4788798ccb24",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/33285db861b24a5cbd951ed4a655822d.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\aa\\": {
+    "Entry": {
+      "Key": "3a0d1608b84c3763da05fac8fb4bbcd2",
+      "ParentKey": "3a0d1608b3dc475c09e93d2250163080",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\",
+      "Name": "aa",
+      "Level": 4,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\aa\\systemcomponents\\": {
+    "Entry": {
+      "Key": "3a0d1608b85959af78ffb9eeb7e4b6b9",
+      "ParentKey": "3a0d1608b84c3763da05fac8fb4bbcd2",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\systemcomponents\\",
+      "Name": "systemcomponents",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\aa\\systemcomponents\\lang638279074559821788.json": {
+    "Entry": {
+      "Key": "3a0d1608b86311140e860734037e6a31",
+      "ParentKey": "3a0d1608b85959af78ffb9eeb7e4b6b9",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\systemcomponents\\lang638279074559821788.json",
+      "Name": "lang638279074559821788.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b834a2dfb036bd18f2da9f97",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": {
+      "Id": "3a0d1608b834a2dfb036bd18f2da9f97",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/d085f38acbe74515864fcf84dfb802d1.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\asdad\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b8d78eedd362c4d17dd525b4",
+      "ParentKey": "3a0d1608b5a03a4d4bcf453cb5e6ac25",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\asdad\\notice\\lang638279074561221661.json": {
+    "Entry": {
+      "Key": "3a0d1608b8e2b5fbf305d415b9efb890",
+      "ParentKey": "3a0d1608b8d78eedd362c4d17dd525b4",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\asdad\\notice\\lang638279074561221661.json",
+      "Name": "lang638279074561221661.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b8b7cd9ef9f07e1cd59f8eb9",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": {
+      "Id": "3a0d1608b8b7cd9ef9f07e1cd59f8eb9",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/17aea1e4e9184229a90851295565f5c1.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\system\\aa\\notice\\": {
+    "Entry": {
+      "Key": "3a0d1608b952d150a36a4a52e1a6d097",
+      "ParentKey": "3a0d1608b84c3763da05fac8fb4bbcd2",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\notice\\",
+      "Name": "notice",
+      "Level": 5,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": null
+  },
+  "Root\\System\\lang\\system\\aa\\notice\\lang638279074562521541.json": {
+    "Entry": {
+      "Key": "3a0d1608b95dd99fca11b55740ec578f",
+      "ParentKey": "3a0d1608b952d150a36a4a52e1a6d097",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\system\\aa\\notice\\lang638279074562521541.json",
+      "Name": "lang638279074562521541.json",
+      "Level": 6,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1608b9364ba6bb044c7752fe9a3f",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:36"
+    },
+    "File": {
+      "Id": "3a0d1608b9364ba6bb044c7752fe9a3f",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-17/8bd68b09975242c3b4df63f301754b3d.json",
+      "FileType": 0,
+      "Suffix": ".json",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\lang\\kinds\\": {
+    "Entry": {
+      "Key": "3a0d1608bf48836b59728e6d2ae56bed",
+      "ParentKey": "3a07f7af34653bcb1721db708c0effbe",
+      "Order": 0,
+      "NamePath": "Root\\System\\lang\\kinds\\",
+      "Name": "kinds",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 1,
+      "EntityId": null,
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-17 22:17:37"
+    },
+    "File": null
+  },
+  "Root\\System\\3a0d185c2d2e58b8feba36dfe2de4589.png": {
+    "Entry": {
+      "Key": "3a0d185c2def9e5009420009f74693a3",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\3a0d185c2d2e58b8feba36dfe2de4589.png",
+      "Name": "3a0d185c2d2e58b8feba36dfe2de4589.png",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d185c2de1ec5614002b6cc702fb2e",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-18 09:08:00"
+    },
+    "File": {
+      "Id": "3a0d185c2de1ec5614002b6cc702fb2e",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-18/927d44e6553545a1940d2925ea5c68af.png",
+      "FileType": 0,
+      "Suffix": ".png",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\20230819023355.jpg": {
+    "Entry": {
+      "Key": "3a0d1eacedb3ffcc2bad9e4707e083dd",
+      "ParentKey": "3a068a7a86ea6d2a718db5d1ecb8643e",
+      "Order": 0,
+      "NamePath": "Root\\System\\20230819023355.jpg",
+      "Name": "20230819023355.jpg",
+      "Level": 2,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0d1eaceda010567de7edd4d9d249f5",
+      "IsSiteFile": false,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null,
+      "CreationTime": "2023-08-19 14:33:55"
+    },
+    "File": {
+      "Id": "3a0d1eaceda010567de7edd4d9d249f5",
+      "Path": "/inbiz/static/{AppId}/file/2023-08-19/270691f3079c430e863f8c4e053b030c.jpg",
+      "FileType": 0,
+      "Suffix": ".jpg",
+      "IsPackage": false,
+      "ObjectId": null,
+      "PackagePath": null,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": null
+    }
+  },
+  "Root\\System\\environment\\environment.zip": {
+    "Entry": {
+      "Key": "3a0b63fcef36dd1d8fdfab7610a8f294",
+      "ParentKey": "3a0ad3d19d8cd19a9baf065974950dda",
+      "Order": 0,
+      "NamePath": "Root\\System\\environment\\environment.zip",
+      "Name": "environment.zip",
+      "Level": 3,
+      "IsRoot": false,
+      "IsSystem": false,
+      "EntryType": 0,
+      "EntityId": "3a0b63fceef84a4c637dbe734275c0c9",
+      "IsSiteFile": true,
+      "IsCustomized": true,
+      "CreateOriginType": 3,
+      "SiteType": "environment",
+      "CreationTime": "2023-09-06 11:41:50"
+    },
+    "File": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "DataVersionId": "3a0f3031ac590faa6043fb3f7e388d01",
+  "OutId": "3a068a7a87cc086998c731a155694eb3",
+  "AppTemplateId": "5964959a0716bcbe5e5bdea20bff22d2",
+  "SiteType": 1,
+  "IsCustomized": false,
+  "CreateOriginType": 1,
+  "Theme": null,
+  "IsSkipMenuPerm": false,
+  "LayoutType": 0,
+  "DefaultPageName": "首页",
+  "DefaultPageRoute": "index",
+  "DefaultPageId": "3a044e318ec39485085b19c7a7b3dcfd"
+}

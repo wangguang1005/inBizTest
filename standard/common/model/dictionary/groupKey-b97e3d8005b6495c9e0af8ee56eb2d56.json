@@ -1,0 +1,23 @@
+{
+  "DistDatas": [
+    {
+      "Value": "证照（无需用印）",
+      "Text": "证照（无需用印）",
+      "GroupId": "b97e3d8005b6495c9e0af8ee56eb2d56",
+      "ColumnSort": "0",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    },
+    {
+      "Value": "印章",
+      "Text": "印章",
+      "GroupId": "b97e3d8005b6495c9e0af8ee56eb2d56",
+      "ColumnSort": "1",
+      "CreationTime": "2023-08-17 22:17:30",
+      "IsCustomized": false
+    }
+  ],
+  "Name": "使用类型",
+  "Key": "b97e3d8005b6495c9e0af8ee56eb2d56",
+  "IsCustomized": false
+}
