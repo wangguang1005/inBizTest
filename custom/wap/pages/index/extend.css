@@ -1,0 +1,15 @@
+.floatLeft{
+  float:left;
+}
+.clearBoth{
+  clear: both;
+}
+.w100{
+  width: 100%;
+}
+.inbiz-BizBody{
+  width: 100%;
+}
+.pageContainer_bottom{
+  display: block;
+}

@@ -6,7 +6,11 @@
         "model": {},
         "wrapperCol": 12,
         "layout": "vertical",
-        "labelAlign": "left"
+        "labelAlign": "left",
+        "feedbackLayout": "loose",
+        "labelWrap": false,
+        "wrapperWrap": false,
+        "fullness": false
       },
       "schema": {
         "type": "object",
@@ -19,12 +23,15 @@
         "model": {},
         "wrapperCol": 12,
         "layout": "vertical",
-        "labelAlign": "left"
+        "labelAlign": "left",
+        "style": {
+          "padding": "8px 0px 0px 0px"
+        }
       },
       "schema": {
         "type": "object",
         "properties": {
-          "InbizMenu_1oucvcbucz": {
+          "InbizMenu_fomy0oryenz": {
             "type": "string",
             "x-decorator": "Container",
             "x-decorator-props": {
@@ -56,10 +63,9 @@
               "icoHoverColor": "var(--inbiz-color-primary)",
               "bgColor": "rgba(255,255,255,1)"
             },
-            "name": "InbizMenu_1oucvcbucz",
-            "x-index": 0,
+            "name": "InbizMenu_fomy0oryenz",
             "properties": {
-              "6ma4zkpbhxm": {
+              "InbizMenu.Plugin_uq86v4omxok": {
                 "type": "void",
                 "title": "菜单卡槽",
                 "x-decorator": "Container",
@@ -71,10 +77,11 @@
                 },
                 "x-component": "InbizMenu.Plugin",
                 "x-component-props": {},
-                "x-index": 0,
-                "name": "6ma4zkpbhxm"
+                "name": "InbizMenu.Plugin_uq86v4omxok",
+                "x-index": 0
               }
-            }
+            },
+            "x-index": 0
           }
         }
       }

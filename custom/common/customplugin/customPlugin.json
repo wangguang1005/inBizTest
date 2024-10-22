@@ -1,0 +1,15 @@
+[
+  {
+    "DisplayName": "自定义组件",
+    "Url": "http://192.168.31.198:3000/",
+    "OutId": "62189c9b-241d-4363-9f8a-c74afb6d95d8",
+    "Pattern": 1,
+    "Remark": null,
+    "Sort": 0,
+    "Type": 2,
+    "Key": "62189c9b-241d-4363-9f8a-c74afb6d95d8",
+    "CreateOriginType": 0,
+    "IsCustomized": false,
+    "CreationTime": "2024-10-16 15:29:32"
+  }
+]

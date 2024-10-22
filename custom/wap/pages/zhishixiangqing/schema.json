@@ -1,0 +1,434 @@
+{
+  "content": {
+    "form": {
+      "labelCol": 6,
+      "wrapperCol": 18,
+      "layout": "vertical",
+      "labelAlign": "left",
+      "model": {},
+      "x-display": false,
+      "wrapperWidth": "px"
+    },
+    "schema": {
+      "type": "object",
+      "properties": {
+        "Space_dzgmnm68b8y": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "style": {
+              "margin": "auto",
+              "borderBottomStyle": "none",
+              "borderBottomWidth": "1px",
+              "borderBottomColor": "#ccc",
+              "opacity": 1,
+              "height": "50px"
+            },
+            "className": "SpaceContainer  wap"
+          },
+          "x-component": "Space",
+          "x-component-props": {
+            "justify": "center",
+            "align": "center"
+          },
+          "name": "Space_dzgmnm68b8y",
+          "x-index": 0,
+          "properties": {
+            "Icon_sk47w24quee": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "Icon.title",
+                  "status": false
+                },
+                "style": {},
+                "fontSize": 14,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "color": "rgba(120,120,120,1)",
+                  "size": 20,
+                  "type": "icon-ic-arrow-left-bold"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false
+              },
+              "name": "Icon_sk47w24quee",
+              "x-decorator-props": {
+                "style": {
+                  "margin": "1px 1px 1px 1px",
+                  "padding": "6px 6px 6px 6px"
+                },
+                "className": "IconContainer  wap"
+              },
+              "x-index": 0
+            },
+            "Text_5gw84rg1eov": {
+              "type": "string",
+              "title": {
+                "value": "Text.title",
+                "status": false
+              },
+              "x-decorator": "Container",
+              "x-component": "Text",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-changwenben"
+                  }
+                },
+                "style": {
+                  "padding": "0px 20px 0px 20px"
+                },
+                "text": "鸿翼KM知识管理功能对比清单…",
+                "color": "rgba(60,60,60,1)",
+                "fontSize": 16,
+                "textIndent": 0,
+                "lineHeight": 1.8,
+                "textAlign": "left"
+              },
+              "name": "Text_5gw84rg1eov",
+              "x-decorator-props": {
+                "style": {
+                  "width": "95%"
+                },
+                "className": "TextContainer  wap"
+              },
+              "x-index": 1
+            }
+          }
+        },
+        "Space_d0s6jehv4kb": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "style": {
+              "margin": "auto",
+              "borderBottomStyle": "solid",
+              "borderBottomWidth": "1px",
+              "borderBottomColor": "#ccc",
+              "padding": "5px 5px 5px 5px"
+            },
+            "className": "SpaceContainer  wap"
+          },
+          "x-component": "Space",
+          "x-component-props": {
+            "justify": "center",
+            "align": "center"
+          },
+          "name": "Space_d0s6jehv4kb",
+          "x-index": 1,
+          "properties": {
+            "Icon_ia68727srih": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "Icon.title",
+                  "status": false
+                },
+                "style": {},
+                "fontSize": 14,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "size": 20,
+                  "color": "#aaa",
+                  "type": "icon-inbiz_basic-list"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false,
+                "page": "page/geren,l2cj0in2s8rkvjdfp9ho0o7lxi0v1v0z,个人"
+              },
+              "name": "Icon_ia68727srih",
+              "x-decorator-props": {
+                "style": {
+                  "margin": "0px 0px 0px 0px",
+                  "padding": "3px 3px 3px 3px"
+                },
+                "className": "IconContainer  wap"
+              },
+              "x-index": 0
+            },
+            "Text_k0u5yezgwmn": {
+              "type": "string",
+              "title": {
+                "value": "Text.title",
+                "status": false
+              },
+              "x-decorator": "Container",
+              "x-component": "Text",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-changwenben"
+                  }
+                },
+                "style": {
+                  "padding": "0px 20px 0px 20px"
+                },
+                "text": "鸿翼KM知识管理功能对比清单…",
+                "color": "rgba(60,60,60,1)",
+                "fontSize": 16,
+                "textIndent": 0,
+                "lineHeight": 1.8,
+                "textAlign": "left"
+              },
+              "name": "Text_k0u5yezgwmn",
+              "x-decorator-props": {
+                "style": {
+                  "width": "90%"
+                },
+                "className": "TextContainer  wap"
+              },
+              "x-index": 1
+            },
+            "Icon_mvj4ejndo81": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "Icon.title",
+                  "status": false
+                },
+                "style": {},
+                "fontSize": 14,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "size": 20,
+                  "color": "#ddd",
+                  "type": "icon-daoru"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false
+              },
+              "name": "Icon_mvj4ejndo81",
+              "x-decorator-props": {
+                "style": {
+                  "padding": "3px 3px 3px 3px"
+                },
+                "className": "IconContainer  wap"
+              },
+              "x-index": 2
+            }
+          }
+        },
+        "Html_1t15ahs7ueu": {
+          "type": "sting",
+          "title": {
+            "value": "Html.title",
+            "status": false
+          },
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "className": "HtmlContainer  wap"
+          },
+          "x-component": "Html",
+          "x-component-props": {
+            "disposition": "<div id=\"u697\" class=\"ax_default shape\">\n<div id=\"u697_text\" class=\"text \">\n<p>&nbsp;过去十年，消费互联网重塑了人们生活方式的每一</p>\n<p>个细节。随着人工智能、大数据、云计算等新技术的</p>\n</div>\n</div>\n<div id=\"u698\" class=\"ax_default shape\">\n<div id=\"u698_div\" class=\"\"></div>\n<div id=\"u698_text\" class=\"text \">\n<p>&nbsp;&nbsp; &nbsp; &nbsp; 过去十年，消费互联网重塑了人们生活方式的每一<br>个细节。随着人工智能、大数据、云计算等新技术的成<br>熟，传统产业正在进行深度的行业价值链重构，企业的<br>管理模式和核心竞争力都在重塑。未来十年，产业互联<br>网将成为企业发展的巨大机遇。产业互联网的企业特点<br>是跨界、跨网，每个企业必须拥抱新时代，通过数字化<br>的技术实现价值创造、实现产业共生</p>\n</div>\n</div>\n<div id=\"u699\" class=\"ax_default\" data-left=\"2616\" data-top=\"530\" data-width=\"345\" data-height=\"60\">\n<div id=\"u700\" class=\"ax_default shape\">\n<div id=\"u700_div\" class=\"\"></div>\n</div>\n<div id=\"u701\" class=\"ax_default shape\">\n<div id=\"u701_div\" class=\"\"></div>\n<div id=\"u701_text\" class=\"text \">\n<p>权利人对其智力劳动所创作的成营活动懂得都懂的中.pdf</p>\n</div>\n</div>\n<div id=\"u702\" class=\"ax_default\" data-left=\"2628\" data-top=\"548\" data-width=\"24\" data-height=\"24\">\n<div id=\"u703\" class=\"ax_default\" data-left=\"2628\" data-top=\"548\" data-width=\"24\" data-height=\"24\">\n<div id=\"u704\" class=\"ax_default\" data-left=\"2628\" data-top=\"548\" data-width=\"24\" data-height=\"24\">\n<div id=\"u705\" class=\"ax_default shape\">\n<div id=\"u705_div\" class=\"\"></div>\n</div>\n</div>\n<div id=\"u706\" class=\"ax_default\" data-left=\"2637\" data-top=\"555\" data-width=\"8\" data-height=\"11\">\n<div id=\"u707\" class=\"ax_default shape\"><img id=\"u707_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u707.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"u708\" class=\"ax_default image\" data-label=\"蜂蜜浏览器_u=2345068450,3220837423&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG\"><img id=\"u708_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/______u_2345068450_3220837423_fm_253_fmt_auto_app__u708.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u709\" class=\"ax_default shape\"><img id=\"u709_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u98.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u710\" class=\"ax_default\" data-label=\"Status Bar\" data-left=\"2601\" data-top=\"0\" data-width=\"375\" data-height=\"44\">\n<div id=\"u711\" class=\"ax_default shape\" data-label=\"Bars/Status Bars/iPhone/Light background\">\n<div id=\"u711_div\" class=\"\"></div>\n</div>\n<div id=\"u712\" class=\"ax_default\" data-label=\"Battery\" data-left=\"2937\" data-top=\"17\" data-width=\"24\" data-height=\"11\">\n<div id=\"u713\" class=\"ax_default shape\" data-label=\"Border\">\n<div id=\"u713_div\" class=\"\"></div>\n</div>\n<div id=\"u714\" class=\"ax_default shape\" data-label=\"Cap\"><img id=\"u714_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/cap_u103.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u715\" class=\"ax_default shape\" data-label=\"Capacity\">\n<div id=\"u715_div\" class=\"\"></div>\n</div>\n</div>\n<div id=\"u716\" class=\"ax_default shape\" data-label=\"Wifi\"><img id=\"u716_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/wifi_u105.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u717\" class=\"ax_default shape\" data-label=\"Cellular Connection\"><img id=\"u717_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/cellular_connection_u106.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u718\" class=\"ax_default label\">\n<div id=\"u718_div\" class=\"\"></div>\n<div id=\"u718_text\" class=\"text \">\n<p>9:43</p>\n</div>\n</div>\n</div>\n<div id=\"u719\" class=\"ax_default shape\">\n<div id=\"u719_div\" class=\"\"></div>\n<div id=\"u719_text\" class=\"text \">\n<p>鸿翼KM知识管理功能对比清单&hellip;</p>\n</div>\n</div>\n<div id=\"u720\" class=\"ax_default shape\"><img id=\"u720_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u144.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u721\" class=\"ax_default\" data-left=\"2601\" data-top=\"824\" data-width=\"375\" data-height=\"65\">\n<div id=\"u722\" class=\"ax_default shape\">\n<div id=\"u722_div\" class=\"\"></div>\n</div>\n<div id=\"u723\" class=\"ax_default shape\">\n<div id=\"u723_div\" class=\"\"></div>\n</div>\n<div id=\"u724\" class=\"ax_default shape\">\n<div id=\"u724_div\" class=\"\"></div>\n</div>\n<div id=\"u725\" class=\"ax_default\" data-left=\"2626\" data-top=\"850\" data-width=\"86\" data-height=\"15\">\n<div id=\"u726\" class=\"ax_default shape\">\n<div id=\"u726_div\" class=\"\"></div>\n<div id=\"u726_text\" class=\"text \">\n<p>17 已点赞</p>\n</div>\n</div>\n<div id=\"u727\" class=\"ax_default\" data-label=\"ic-已赞\" data-left=\"2626\" data-top=\"850\" data-width=\"14\" data-height=\"14\">\n<div id=\"u728\" class=\"ax_default shape\">\n<div id=\"u728_div\" class=\"\"></div>\n</div>\n<div id=\"u729\" class=\"ax_default shape\"><img id=\"u729_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u153.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n</div>\n</div>\n<div id=\"u730\" class=\"ax_default shape\">\n<div id=\"u730_div\" class=\"\"></div>\n<div id=\"u730_text\" class=\"text \">\n<p>收藏 111</p>\n</div>\n</div>\n<div id=\"u731\" class=\"ax_default shape\">\n<div id=\"u731_div\" class=\"\"></div>\n<div id=\"u731_text\" class=\"text \">\n<p>评论 7111</p>\n</div>\n</div>\n<div id=\"u732\" class=\"ax_default shape\">\n<div id=\"u732_div\" class=\"\"></div>\n<div id=\"u732_text\" class=\"text \">\n<p>分享 7111</p>\n</div>\n</div>\n<div id=\"u733\" class=\"ax_default shape\">\n<div id=\"u733_div\" class=\"\"></div>\n</div>\n<div id=\"u734\" class=\"ax_default\" data-left=\"2870\" data-top=\"839\" data-width=\"20\" data-height=\"17\">\n<div id=\"u735\" class=\"ax_default\" data-left=\"2870\" data-top=\"839\" data-width=\"20\" data-height=\"17\">\n<div id=\"u736\" class=\"ax_default shape\"><img id=\"u736_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u160.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u737\" class=\"ax_default shape\"><img id=\"u737_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u161.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n</div>\n</div>\n<div id=\"u738\" class=\"ax_default shape\">\n<div id=\"u738_div\" class=\"\"></div>\n</div>\n<div id=\"u739\" class=\"ax_default shape\"><img id=\"u739_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u163.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u740\" class=\"ax_default shape\">\n<div id=\"u740_div\" class=\"\"></div>\n</div>\n<div id=\"u741\" class=\"ax_default\" data-label=\"KM_ic-fabiaofenxiang\" data-left=\"2928\" data-top=\"839\" data-width=\"18\" data-height=\"18\">\n<div id=\"u742\" class=\"ax_default shape\"><img id=\"u742_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u166.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u743\" class=\"ax_default shape\">\n<div id=\"u743_div\" class=\"\"></div>\n</div>\n</div>\n<div id=\"u744\" class=\"ax_default\" data-left=\"2755\" data-top=\"836\" data-width=\"20\" data-height=\"20\">\n<div id=\"u745\" class=\"ax_default shape\">\n<div id=\"u745_div\" class=\"\"></div>\n</div>\n<div id=\"u746\" class=\"ax_default shape\"><img id=\"u746_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u170.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u747\" class=\"ax_default shape\"><img id=\"u747_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u171.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n</div>\n<div id=\"u748\" class=\"ax_default shape\">\n<div id=\"u748_div\" class=\"\"></div>\n<div id=\"u748_text\" class=\"text \">\n<p>浏览 7111</p>\n</div>\n</div>\n</div>\n<div id=\"u749\" class=\"ax_default box_1\">\n<div id=\"u749_div\" class=\"\"></div>\n</div>\n<div id=\"u750\" class=\"ax_default label\">\n<div id=\"u750_div\" class=\"\"></div>\n<div id=\"u750_text\" class=\"text \">\n<p>鸿翼KM知识管理功能对比清单.xlsx</p>\n</div>\n</div>\n<div id=\"u751\" class=\"ax_default shape\"><img id=\"u751_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u178.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u752\" class=\"ax_default shape\"><img id=\"u752_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u179.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u753\" class=\"ax_default shape\"><img id=\"u753_img\" class=\"img \" src=\"https://files.axshare.com/gsc/9PWWXA/cf/ad/b6/cfadb6c8ec0d4d86867fb05202886f57/images/%E7%9F%A5%E8%AF%86%E5%BA%93/u180.svg?pageId=3ee7d935-7967-473a-a8f9-328277a2a937\"></div>\n<div id=\"u754\" class=\"ax_default shape\">\n<div id=\"u754_div\" class=\"\"></div>\n<div id=\"u754_text\" class=\"text \">\n<p>&nbsp;&nbsp; &nbsp; &nbsp; 过去十年，消费互联网重塑了人们生活方式的每一</p>\n<p>个细节。随着人工智能、大数据、云计算等新技术的</p>\n</div>\n</div>\n<div id=\"u755\" class=\"ax_default shape\">\n<div id=\"u755_div\" class=\"\"></div>\n<div id=\"u755_text\" class=\"text \">\n<p>&nbsp;&nbsp; &nbsp; &nbsp; 过去十年，消费互联网重塑了人们生活方式的每一</p>\n<p>个细节。随着人工智能、大数据、云计算等新技术的</p>\n</div>\n</div>\n<div id=\"u756\" class=\"ax_default shape\">\n<div id=\"u756_div\" class=\"\"></div>\n<div id=\"u756_text\" class=\"text \">\n<p>&nbsp;&nbsp; &nbsp; &nbsp; 过去十年，消费互联网重塑了人们生活方式的每一</p>\n<p>个细节。随着人工智能、大数据、云计算等新技术的</p>\n</div>\n</div>",
+            "headerStyle": {
+              "icon": {
+                "type": "icon-html"
+              }
+            },
+            "style": {
+              "padding": "0px 20px 0px 20px"
+            }
+          },
+          "name": "Html_1t15ahs7ueu",
+          "x-index": 2
+        },
+        "Space_dw3h1w4p413": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "style": {
+              "margin": "auto"
+            },
+            "className": "SpaceContainer  wap"
+          },
+          "x-component": "Space",
+          "x-component-props": {
+            "justify": "center",
+            "align": "center"
+          },
+          "name": "Space_dw3h1w4p413",
+          "x-index": 3,
+          "properties": {
+            "EformButton_n0twkkcfmhl": {
+              "title": {
+                "value": "点赞",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "custom",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "outline",
+                "buttonColorType": "custom",
+                "buttonBorder": 2,
+                "icon": {
+                  "size": 14,
+                  "type": "icon-dianzan1"
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "0px 0px 0px 0px",
+                  "margin": "0px 0px 0px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_n0twkkcfmhl",
+              "x-index": 0
+            },
+            "Icon_uqxlspl1yn9": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "浏览 7111",
+                  "status": true
+                },
+                "style": {},
+                "fontSize": 12,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "color": "#ccc",
+                  "size": 20,
+                  "type": "icon-ic-browse"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false
+              },
+              "name": "Icon_uqxlspl1yn9",
+              "x-index": 1
+            },
+            "Icon_qpltch8vj21": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "收藏7111",
+                  "status": true
+                },
+                "style": {},
+                "fontSize": 12,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "color": "#ccc",
+                  "size": 20,
+                  "type": "icon-ic-favorite"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false
+              },
+              "name": "Icon_qpltch8vj21",
+              "x-index": 2
+            },
+            "Icon_ob8i5nkr022": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "评论7111",
+                  "status": true
+                },
+                "style": {},
+                "fontSize": 12,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "color": "#ccc",
+                  "size": 18,
+                  "type": "icon-ic-pinglun1"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false
+              },
+              "name": "Icon_ob8i5nkr022",
+              "x-index": 3
+            },
+            "Icon_qzt6ntqhjc2": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "分享7111",
+                  "status": true
+                },
+                "style": {},
+                "fontSize": 12,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "color": "#ccc",
+                  "size": 18,
+                  "type": "icon-fenxiang"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false
+              },
+              "name": "Icon_qzt6ntqhjc2",
+              "x-index": 4
+            }
+          }
+        }
+      }
+    }
+  }
+}

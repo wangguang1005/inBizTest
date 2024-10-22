@@ -1,0 +1,12 @@
+{
+  "OutId": "vk08zdthkdtt507xokjsixn16i8bdidf",
+  "Name": "搜索",
+  "Route": "sousuo",
+  "Description": "",
+  "Sort": "32",
+  "ParentId": null,
+  "IsCustomized": true,
+  "Layout": "[]",
+  "CreateOriginType": 3,
+  "IsSkipPerm": false
+}

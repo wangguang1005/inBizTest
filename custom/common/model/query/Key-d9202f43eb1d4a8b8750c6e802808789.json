@@ -1,0 +1,174 @@
+{
+  "Key": "d9202f43eb1d4a8b8750c6e802808789",
+  "Name": "回访收集",
+  "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+  "GroupKey": "0",
+  "MD5": "21f92d3178c612fa2deb92658fea4318",
+  "DataType": 0,
+  "UseCustomRelation": false,
+  "ConfigJson": {
+    "ModelQueryModelRelation": [
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "ModelName": "collect",
+        "ParentModelKey": null,
+        "Children": null
+      }
+    ],
+    "UseCustomRelation": false,
+    "CustomModelRelation": null,
+    "ModelQueryField": [
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "FieldKey": "dg7b75osp1vafk5esevkra501jr1k9r6",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "a",
+          "FormatType": 4,
+          "FormatTypeDetail": "4d059166997144b694092557291d0e90",
+          "FormatTypeName": "能力",
+          "MemberFormatType": "",
+          "ShowField": "",
+          "RelationModel": "",
+          "RelationField": "",
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "collect",
+        "FieldName": "a",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "FieldKey": "hoabzv3zycyw32w8ebkrnlwk87butp1m",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "b",
+          "FormatType": 4,
+          "FormatTypeDetail": "0f99385f6d724845991aa69477e8a5e3",
+          "FormatTypeName": "培训",
+          "MemberFormatType": "",
+          "ShowField": "",
+          "RelationModel": "",
+          "RelationField": "",
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "collect",
+        "FieldName": "b",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "FieldKey": "p930zxlizb5q5t1ko8v04up7lqvjerw8",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "c",
+          "FormatType": 4,
+          "FormatTypeDetail": "6d20d950a19b4775aef3ada098bf744a",
+          "FormatTypeName": "使用频率",
+          "MemberFormatType": "",
+          "ShowField": "",
+          "RelationModel": "",
+          "RelationField": "",
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "collect",
+        "FieldName": "c",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "FieldKey": "ank1sa7nnsqpnka6mnsqkf3q4pt157rz",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "d",
+          "FormatType": 4,
+          "FormatTypeDetail": "cf7e809da17143c69550914799ffb6ae",
+          "FormatTypeName": "便捷性",
+          "MemberFormatType": "",
+          "ShowField": "",
+          "RelationModel": "",
+          "RelationField": "",
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "collect",
+        "FieldName": "d",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "FieldKey": "26wtgpgckegj7gkgy499lllodwl19wno",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "e",
+          "FormatType": 4,
+          "FormatTypeDetail": "9f314bde28ca4eada0f57baafa63aced",
+          "FormatTypeName": "改进",
+          "MemberFormatType": "",
+          "ShowField": "",
+          "RelationModel": "",
+          "RelationField": "",
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "collect",
+        "FieldName": "e",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "FieldKey": "mpn75djje73j6kicr2pu02063llozgi4",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": null,
+        "ModelName": "collect",
+        "FieldName": "f",
+        "AnotherName": null
+      },
+      {
+        "ModelKey": "4f6a5b2c-e1a1-49cd-8e76-74c656079daf",
+        "FieldKey": "10nqpl68aaif48xetgiigfb0f57e6j5p",
+        "ColName": null,
+        "Describe": null,
+        "RelationDictionary": null,
+        "FormatFactory": {
+          "FormatField": "user",
+          "FormatType": 1,
+          "FormatTypeDetail": "0",
+          "FormatTypeName": "用户",
+          "MemberFormatType": "",
+          "ShowField": "",
+          "RelationModel": "",
+          "RelationField": "",
+          "ModelType": 0,
+          "Children": null
+        },
+        "ModelName": "collect",
+        "FieldName": "user",
+        "AnotherName": null
+      }
+    ],
+    "FixedCondition": {
+      "ConditionStr": ""
+    },
+    "FilterType": 0,
+    "SortConfigs": [],
+    "Key": null
+  },
+  "IsCustomized": false,
+  "CreateOriginType": 0
+}

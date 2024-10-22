@@ -7,217 +7,354 @@
       "labelAlign": "left",
       "model": {},
       "style": {
-        "backgroundColor": "rgba(245,245,247,1)"
+        "backgroundColor": "rgba(151,199,246,0.42)",
+        "padding": "10px 10px 10px 10px"
       },
-      "x-display": false
+      "x-display": false,
+      "wrapperWrap": true,
+      "labelWrap": true,
+      "fullness": true
     },
     "schema": {
       "type": "object",
       "properties": {
-        "SearchEngine_m10wquy936": {
-          "type": "sting",
+        "Text_qjdi3azcwty": {
+          "type": "string",
           "title": {
-            "value": "SearchEngineView.search",
-            "status": true
-          },
-          "x-component": "SearchEngine",
-          "x-component-props": {
-            "viewType": "largePanelView",
-            "sort": "",
-            "searchResultType": "page",
-            "order": "",
-            "className": "",
-            "icon": {
-              "type": "icon-inbiz_basic-search",
-              "size": "32px",
-              "color": "rgb(102, 102, 102)"
-            },
-            "hotKeywordsSwitch": false,
-            "hotKeywordsPosition": "inside",
-            "associativeWords": true,
-            "indexRange": true,
-            "pullWidth": 100,
-            "searchResultPageType": "_blank",
-            "tabsConfig": [
-              {
-                "guid": "all_202101031218",
-                "title": "SearchEngineView.whole",
-                "isAll": true,
-                "isShow": false,
-                "isEdit": true,
-                "isDelete": false,
-                "searchMode": false,
-                "indexLibraryName": "202101031218"
-              },
-              {
-                "guid": "file_202101031117",
-                "title": "SearchEngineView.file",
-                "isShow": true,
-                "isEdit": true,
-                "isDelete": false,
-                "indexLibraryName": "DMS",
-                "advancedSearch": false,
-                "searchType": [
-                  {
-                    "value": 1,
-                    "label": "SearchEngineView.content"
-                  },
-                  {
-                    "value": 2,
-                    "label": "SearchEngineView.fileName"
-                  },
-                  {
-                    "value": 3,
-                    "label": "SearchEngineView.label"
-                  },
-                  {
-                    "value": 4,
-                    "label": "SearchEngineView.folder"
-                  }
-                ],
-                "selectFolderID": [],
-                "searchFolderName": "SearchEngineView.enterpriseContentLibrary",
-                "searchMode": false,
-                "advancedSearchStyle": "style2",
-                "quikSearchTemplate": "file.jsx",
-                "filepath": "/inbiz/wap/template_search/file.jsx",
-                "isFile": true,
-                "indexLibraries": [
-                  {
-                    "IndexName": "file",
-                    "IndexCode": "0536ce92cbca4e359d1d448349fa2260",
-                    "IndexDesc": "ECM文件索引",
-                    "IndexType": -2,
-                    "Id": 1,
-                    "configs": [
-                      {
-                        "title": "file",
-                        "defaultSearchCriteria": "*",
-                        "sortField": [
-                          {
-                            "sort": "desc",
-                            "enable": true,
-                            "IndexFieldDesc": "SearchResultEnginePreview.matchingDegree",
-                            "IndexFieldName": "",
-                            "default": true
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "guid": "folder_202101031118",
-                "title": "SearchEngineView.folder",
-                "isShow": true,
-                "isEdit": true,
-                "isDelete": false,
-                "indexLibraryName": "DMS",
-                "advancedSearch": false,
-                "searchType": [
-                  {
-                    "value": 1,
-                    "label": "SearchEngineView.content"
-                  },
-                  {
-                    "value": 2,
-                    "label": "SearchEngineView.fileName"
-                  },
-                  {
-                    "value": 3,
-                    "label": "SearchEngineView.label"
-                  },
-                  {
-                    "value": 4,
-                    "label": "SearchEngineView.folder"
-                  }
-                ],
-                "selectFolderID": [],
-                "searchFolderName": "SearchEngineView.enterpriseContentLibrary",
-                "searchMode": false,
-                "advancedSearchStyle": "style2",
-                "quikSearchTemplate": "folder.jsx",
-                "filepath": "/inbiz/wap/template_search/folder.jsx",
-                "isFolder": true,
-                "indexLibraries": [
-                  {
-                    "IndexName": "folder",
-                    "IndexCode": "dfb12a6ac68147169a9c3079df562ee6",
-                    "IndexDesc": "ECM文件夹索引",
-                    "IndexType": -3,
-                    "Id": 6,
-                    "configs": [
-                      {
-                        "title": "folder",
-                        "defaultSearchCriteria": "*",
-                        "sortField": [
-                          {
-                            "sort": "desc",
-                            "enable": true,
-                            "IndexFieldDesc": "SearchResultEnginePreview.matchingDegree",
-                            "IndexFieldName": "",
-                            "default": true
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "searchResultPage": "page/sousujieguo,mtsj40s2rq478ectmaq8z0rqey1iv7m4,搜素结果",
-            "historySearch": true,
-            "wapviewType": "largePanelView",
-            "searchIcon": {
-              "type": "icon-inbiz_basic-search"
-            },
-            "buttonIcon": {
-              "type": "icon-inbiz_basic-search"
-            },
-            "rangeType": "pull"
-          },
-          "x-decorator": "Container",
-          "x-decorator-props": {
-            "style": {
-              "padding": "9px 16px 9px 16px",
-              "backgroundColor": "rgba(255,255,255,1)"
-            },
-            "className": "SearchEngineContainer  wap"
-          },
-          "name": "SearchEngine_m10wquy936",
-          "x-index": 0
-        },
-        "Html_dgeh1hgnd4": {
-          "type": "sting",
-          "title": {
-            "value": "Html.title",
+            "value": "Text.title",
             "status": false
           },
           "x-decorator": "Container",
-          "x-decorator-props": {
-            "className": "HtmlContainer  wap",
-            "style": {
-              "margin": "0px 0px 0px 0px",
-              "padding": "0px 0px 0px 0px",
-              "backgroundColor": "rgba(255,255,255,1)"
-            }
-          },
-          "x-component": "Html",
+          "x-component": "Text",
           "x-component-props": {
-            "disposition": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/inbiz/static/{AppId}/file/2022-09-27/981bbdddc49b43819c9e213837219a1e.jpg\"></p>",
             "headerStyle": {
               "icon": {
-                "type": "icon-html"
+                "type": "icon-changwenben"
               }
             },
             "style": {
-              "padding": "0px 0px 0px 0px",
-              "height": "inherit"
-            }
+              "padding": "0px 20px 0px 20px"
+            },
+            "text": "KM知识管理",
+            "color": "rgba(60,60,60,1)",
+            "fontSize": 20,
+            "textIndent": 0,
+            "lineHeight": 1.8,
+            "textAlign": "center"
           },
-          "name": "Html_dgeh1hgnd4",
-          "x-index": 1
+          "name": "Text_qjdi3azcwty",
+          "x-index": 0
+        },
+        "Space_vgsym8woy5b": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "style": {
+              "margin": "auto"
+            },
+            "className": "SpaceContainer  wap"
+          },
+          "x-component": "Space",
+          "x-component-props": {
+            "justify": "center",
+            "align": "center"
+          },
+          "name": "Space_vgsym8woy5b",
+          "x-index": 1,
+          "properties": {
+            "SearchEngine_kkt8ubcax1k": {
+              "type": "sting",
+              "title": {
+                "value": "SearchEngineView.search",
+                "status": true
+              },
+              "x-component": "SearchEngine",
+              "x-component-props": {
+                "inIcon": {
+                  "type": "icon-inbiz_basic-search"
+                },
+                "inTitle": {
+                  "value": "SearchEngineView.search",
+                  "status": true
+                },
+                "searchIcon": {
+                  "type": "icon-inbiz_basic-search"
+                },
+                "searchText": {
+                  "value": "SearchEngineView.search",
+                  "status": true
+                },
+                "buttonText": {
+                  "value": "SearchEngineView.search",
+                  "status": true
+                },
+                "align": "center",
+                "placeholderWeb": "SearchEngineView.enterSearchContent",
+                "endSearchIcon": {
+                  "type": ""
+                },
+                "resultSearch": {
+                  "value": "SearchEngineView.resultSearch",
+                  "status": true
+                },
+                "viewType": "largePanelView",
+                "wapviewType": "largePanelView",
+                "sort": "",
+                "searchResultType": "page",
+                "order": "",
+                "className": "",
+                "icon": {
+                  "type": "icon-inbiz_basic-search",
+                  "size": "32px",
+                  "color": "rgb(102, 102, 102)"
+                },
+                "hotKeywordsSwitch": true,
+                "hotKeywordsPosition": "inside",
+                "hotKeywordsNumber": 8,
+                "detection": false,
+                "associativeWords": true,
+                "indexRange": false,
+                "pullWidth": 100,
+                "searchResultPageType": "_blank",
+                "placeholder": "SearchEngineView.enterSearchContent",
+                "tabsConfig": [
+                  {
+                    "guid": "all_202101031218",
+                    "title": "SearchEngineView.whole",
+                    "isAll": true,
+                    "isShow": false,
+                    "isEdit": true,
+                    "isDelete": false,
+                    "searchMode": false,
+                    "indexLibraryName": "202101031218"
+                  },
+                  {
+                    "guid": "file_202101031117",
+                    "title": "SearchEngineView.file",
+                    "isFile": true,
+                    "isShow": true,
+                    "isEdit": true,
+                    "isDelete": false,
+                    "advancedSearch": false,
+                    "customRange": [
+                      "allFolder",
+                      "curfolder"
+                    ],
+                    "searchFolderName": "SearchEngineView.enterpriseContentLibrary",
+                    "searchMode": false,
+                    "advancedSearchStyle": "style2",
+                    "quikSearchTemplate": "file.jsx",
+                    "filepath": "/inbiz/wap/template_search/file.jsx",
+                    "indexLibraries": [
+                      {
+                        "IndexName": "file",
+                        "IndexCode": "0536ce92cbca4e359d1d448349fa2260",
+                        "IndexDesc": "ECM文件索引",
+                        "IndexType": 2,
+                        "Id": 1,
+                        "configs": [
+                          {
+                            "title": "file",
+                            "defaultSearchCriteria": "*",
+                            "sortField": [
+                              {
+                                "sort": "desc",
+                                "enable": true,
+                                "IndexFieldDesc": "SearchEngineView.matchingDegree",
+                                "IndexFieldName": "",
+                                "default": true
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "guid": "folder_202101031118",
+                    "title": "SearchEngineView.folder",
+                    "isFolder": true,
+                    "isShow": true,
+                    "isEdit": true,
+                    "isDelete": false,
+                    "advancedSearch": false,
+                    "customRange": [
+                      "allFolder",
+                      "curfolder"
+                    ],
+                    "searchFolderName": "SearchEngineView.enterpriseContentLibrary",
+                    "searchMode": false,
+                    "advancedSearchStyle": "style2",
+                    "quikSearchTemplate": "folder.jsx",
+                    "filepath": "/inbiz/wap/template_search/folder.jsx",
+                    "indexLibraries": [
+                      {
+                        "IndexName": "folder",
+                        "IndexCode": "dfb12a6ac68147169a9c3079df562ee6",
+                        "IndexDesc": "ECM文件夹索引",
+                        "IndexType": 2,
+                        "Id": 6,
+                        "configs": [
+                          {
+                            "title": "folder",
+                            "defaultSearchCriteria": "*",
+                            "sortField": [
+                              {
+                                "sort": "desc",
+                                "enable": true,
+                                "IndexFieldDesc": "SearchEngineView.matchingDegree",
+                                "IndexFieldName": "",
+                                "default": true
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "historySearch": true,
+                "synonymSearch": false,
+                "fixedWidth": "420px",
+                "rangeType": "popup",
+                "searchResultPage": "page/sousujieguo,mtsj40s2rq478ectmaq8z0rqey1iv7m4,搜索结果",
+                "buttonIcon": {
+                  "type": "icon-inbiz_basic-search"
+                }
+              },
+              "x-decorator": "Container",
+              "x-decorator-props": {
+                "style": {
+                  "padding": "9px 16px 9px 16px",
+                  "width": "260px"
+                },
+                "className": "SearchEngineContainer  wap"
+              },
+              "name": "SearchEngine_kkt8ubcax1k",
+              "x-index": 0
+            },
+            "Icon_8d0ae8djk1t": {
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "Icon",
+              "x-component-props": {
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-html"
+                  }
+                },
+                "titleOption": {
+                  "value": "Icon.title",
+                  "status": false
+                },
+                "style": {},
+                "fontSize": 12,
+                "fontColor": "rgba(120,120,120,1)",
+                "iconOption": {
+                  "color": "rgba(120,120,120,1)",
+                  "size": 20,
+                  "type": "icon-inbiz_other-headphones"
+                },
+                "externalAddress": false,
+                "link": "",
+                "jumpType": false,
+                "className": ""
+              },
+              "name": "Icon_8d0ae8djk1t",
+              "x-decorator-props": {
+                "style": {
+                  "width": "30px",
+                  "height": "30px"
+                },
+                "className": "IconContainer  wap"
+              },
+              "x-index": 1
+            },
+            "Message_sdwmlrozh1g": {
+              "type": "void",
+              "x-decorator": "Container",
+              "x-decorator-props": {
+                "clickable": false,
+                "className": "MessageContainer  wap",
+                "style": {
+                  "width": "30px",
+                  "height": "auto",
+                  "margin": "0px 0px 0px 0px"
+                }
+              },
+              "title": {
+                "status": true,
+                "value": "Message.title"
+              },
+              "x-component": "Message",
+              "x-component-biz-props": {
+                "range": "current"
+              },
+              "x-component-props": {
+                "h5Viewtype": "small",
+                "headerStyle": {
+                  "icon": {
+                    "type": "icon-xiaoxi"
+                  }
+                },
+                "style": {
+                  "padding": "0px 0px 15px 0px"
+                },
+                "modalIcon": {
+                  "type": "icon-ic-xiaoxi"
+                },
+                "className": ""
+              },
+              "name": "Message_sdwmlrozh1g",
+              "x-index": 2
+            }
+          }
+        },
+        "Banner_he1rrm2ebvf": {
+          "type": "sting",
+          "title": {
+            "value": "焦点图片",
+            "status": false
+          },
+          "x-decorator": "Container",
+          "x-component": "Banner",
+          "x-component-biz-props": {
+            "imgCate": {
+              "id": "0000-0000-0000",
+              "title": "图片",
+              "categoryType": 0,
+              "pos": []
+            },
+            "MaximumDisplayQuantity": 8
+          },
+          "x-component-props": {
+            "viewType": "focus",
+            "viewType_h5": "focus",
+            "showImgTitle": false,
+            "headerStyle": {
+              "icon": {
+                "type": "icon-jiaodiantupian",
+                "color": "#000"
+              }
+            },
+            "style": {
+              "padding": "16px 15px 15px 15px"
+            },
+            "detail": {},
+            "className": "",
+            "autoRoll": true,
+            "delay": 2
+          },
+          "name": "Banner_he1rrm2ebvf",
+          "x-index": 2,
+          "x-decorator-props": {
+            "style": {
+              "height": "",
+              "margin": "0px 0px 0px 0px"
+            },
+            "className": "BannerContainer  wap"
+          }
         },
         "Navigation_4k87hesd0h": {
           "type": "string",
@@ -236,7 +373,7 @@
             "style": {
               "padding": "0px 20px 0px 20px"
             },
-            "rowCount": 4,
+            "rowCount": 3,
             "mobilerowCount": 4,
             "colHeight": 100,
             "horizontalGutter": 1,
@@ -252,144 +389,40 @@
             "fontSize": 12,
             "dataSource1": [
               {
-                "id": "xTkS-LnXr-kW3R-vD5O",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "评价反馈",
-                "icon": {
-                  "size": 40,
-                  "type": "icon-biaodan"
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": false,
-                "linkAddress": "",
-                "page": "page/fankui,qphsf49hu361ze7oc3jot38jl9idkf19,回访单",
-                "windowWidth": "60%",
-                "windowHeight": "60%"
-              },
-              {
-                "id": "MMjk-eJt6-dDea-flTL",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "评价收集",
-                "icon": {
-                  "color": "rgba(74,120,255,1)",
-                  "size": 40,
-                  "type": "icon-inbiz_process-tongjifenxi"
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": false,
-                "linkAddress": "",
-                "page": "page/huizongbiao,4drphybn38vcu717u9nzi1sfki3gj6pb,汇总表"
-              },
-              {
-                "id": "10002",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "付款申请",
-                "icon": {
-                  "color": "rgba(74,120,255,1)",
-                  "size": 40,
-                  "type": "icon-inbiz_process-baoxiaozichan"
-                },
-                "externalAddress": false,
-                "page": "page/liuchengzhongxin,0hqeaha44uu26ru95kqcrej4fpcvofio,流程中心",
-                "linkAddress": "",
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "hide": true
-              },
-              {
-                "id": "FEBP-PKzl-UeOI-wen1",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "采购申请",
-                "icon": {
-                  "color": "rgba(254,88,88,1)",
-                  "size": 40,
-                  "type": "icon-inbiz_process-caigou"
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": false,
-                "linkAddress": "http://ecmdemo.macrowing.com/inbiz/wap/zhbg#/page/caigoushenqingbiaodan?processId=process278c300ddccf40868f80fb5a35d4af47%3A8%3A187518&instanceId=&formId=teaxj7zik78ouplu9zsxjuh1b5vu4qgp&tabKey=1&drafID=&draftsId=&pageId=teaxj7zik78ouplu9zsxjuh1b5vu4qgp",
-                "page": "page/caigoushenqingbiaodan,teaxj7zik78ouplu9zsxjuh1b5vu4qgp,采购申请",
-                "hide": false
-              },
-              {
-                "id": "f34O-ST2z-eUto-Ij8W",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "差旅申请",
-                "icon": {
-                  "color": "rgba(255,162,56,1)",
-                  "size": 40,
-                  "type": "icon-inbiz_process-chucha"
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": false,
-                "linkAddress": "",
-                "page": "page/liuchengzhongxin,0hqeaha44uu26ru95kqcrej4fpcvofio,流程中心",
-                "hide": true
-              },
-              {
                 "id": "ewdB-vk3D-iT6l-rIV4",
                 "isEdit": true,
                 "isHide": true,
                 "isDel": true,
-                "title": "维保售后",
+                "title": "管理信息",
                 "icon": {
-                  "color": "rgba(255,162,56,1)",
+                  "color": "rgba(74,120,255,1)",
                   "size": 40,
-                  "type": "icon-inbiz_process-weixiubaoxiu"
+                  "type": "icon-daohang-wiki"
                 },
                 "blockBackgroundColor": "rgba(255,255,255,1)",
                 "titleColor": "rgba(0,0,0,1)",
                 "externalAddress": false,
                 "linkAddress": "http://ecmdemo.macrowing.com/inbiz/wap/zhbg#/page/weibaoshouhoubiaodan?processId=process29bd6a69f5834a66b518b506281e8076%3A5%3A187521&instanceId=&formId=ltqvhgisvj0mydfk58jf08ke58dsiptj&tabKey=1&drafID=&draftsId=&pageId=ltqvhgisvj0mydfk58jf08ke58dsiptj",
-                "page": "page/liuchengzhongxin,0hqeaha44uu26ru95kqcrej4fpcvofio,流程中心"
+                "page": "page/sousuo,vk08zdthkdtt507xokjsixn16i8bdidf,搜索",
+                "windowWidth": "60%",
+                "windowHeight": "60%"
               },
               {
                 "id": "19oS-Zdy2-FeNc-BRWl",
                 "isEdit": true,
                 "isHide": true,
                 "isDel": true,
-                "title": "用章流程",
+                "title": "专业知识",
                 "icon": {
                   "color": "rgba(74,120,255,1)",
                   "size": 40,
-                  "type": "icon-inbiz_process-gongzhanggaizhang"
+                  "type": "icon-inbiz_process-weixiubaoxiu"
                 },
                 "blockBackgroundColor": "rgba(255,255,255,1)",
                 "titleColor": "rgba(0,0,0,1)",
                 "externalAddress": false,
                 "linkAddress": "http://ecmdemo.macrowing.com/inbiz/wap/zhbg#/page/yongzhangliuchengbiaodan?processId=processc4bc8b3d4a2d464db487f460cf1412ca%3A6%3A187526&instanceId=&formId=af0dv6qdsiiuvd9afewa9cobd7i6lnav&tabKey=1&drafID=&draftsId=&pageId=af0dv6qdsiiuvd9afewa9cobd7i6lnav",
-                "page": "page/yongzhangliuchengbiaodan,af0dv6qdsiiuvd9afewa9cobd7i6lnav,用章流程"
-              },
-              {
-                "id": "WVmT-8S9V-PEaD-lFWh",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "客户商机",
-                "icon": {
-                  "color": "rgba(1,187,0,1)",
-                  "size": 40,
-                  "type": "icon-inbiz_process-gongwen"
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": false,
-                "linkAddress": "http://ecmdemo2.macrowing.com/inbiz/wap/zhbg#/page/kehushangji?processId=process7a94bd3319734ef6a6a76d4eaa8420c7%3A6%3A187531&instanceId=&formId=zsp7lf4p0nymum5wvsp0t1p9z6lj3d2s&tabKey=1&drafID=&draftsId=&pageId=zsp7lf4p0nymum5wvsp0t1p9z6lj3d2s",
-                "page": "page/kehushangji,zsp7lf4p0nymum5wvsp0t1p9z6lj3d2s,客户商机",
+                "page": "page/yongzhangliuchengbiaodan,af0dv6qdsiiuvd9afewa9cobd7i6lnav,用章流程",
                 "windowWidth": "60%",
                 "windowHeight": "60%"
               },
@@ -398,11 +431,11 @@
                 "isEdit": true,
                 "isHide": true,
                 "isDel": true,
-                "title": "用车申请",
+                "title": "项目案例",
                 "icon": {
                   "color": "rgba(74,120,255,1)",
                   "size": 40,
-                  "type": "icon-inbiz_process-yongchegongche"
+                  "type": "icon-inbiz_process-wenjianjia"
                 },
                 "blockBackgroundColor": "rgba(255,255,255,1)",
                 "titleColor": "rgba(0,0,0,1)",
@@ -411,23 +444,6 @@
                 "page": "page/yongcheshenqing,v8h8f7k4d0t73suahff70g4s3yvbylh7,用车申请",
                 "windowWidth": "60%",
                 "windowHeight": "60%"
-              },
-              {
-                "id": "3THA-F4YY-Pf94-9Z2N",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "全部流程",
-                "icon": {
-                  "color": "rgba(254,88,88,1)",
-                  "size": 40,
-                  "type": "icon-inbiz_process-ziyuanzhongxin"
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": false,
-                "linkAddress": "",
-                "page": "page/liuchengzhongxin,0hqeaha44uu26ru95kqcrej4fpcvofio,流程中心"
               }
             ],
             "className": "",
@@ -441,477 +457,64 @@
               "margin": "0px 0px 16px 0px",
               "padding": "5px 0px 0px 0px",
               "backgroundColor": "rgba(255,255,255,1)",
-              "height": ""
+              "height": "",
+              "borderRadius": "8px 8px 8px 8px"
             },
             "className": "NavigationContainer  wap"
           },
-          "x-index": 2
-        },
-        "Html_qc1amuatqy": {
-          "type": "sting",
-          "title": {
-            "value": "Hi，欢迎使用 InBiz",
-            "status": true
-          },
-          "x-decorator": "Container",
-          "x-decorator-props": {
-            "className": "HtmlContainer  wap",
-            "style": {
-              "margin": "0px 0px 0px 0px",
-              "padding": "0px 0px 0px 0px",
-              "backgroundColor": "rgba(255,255,255,1)",
-              "borderStyle": "none"
-            }
-          },
-          "x-component": "Html",
-          "x-component-props": {
-            "disposition": "<p style=\"text-align: left; line-height: 1.5;\"><span style=\"font-size: 12pt; color: rgb(102, 102, 102);\">定位于快速搭建企业内容应用与复杂应用系统的构建</span></p>\n<p style=\"text-align: left; line-height: 1.5;\"><span style=\"font-size: 12pt; color: rgb(0, 0, 0);\"><a href=\"http://inbiz.macrowing.com/\" target=\"_blank\" rel=\"noopener\"><img src=\"/inbiz/static/{AppId}/file/2022-09-27/2dc4fcca20ed499ab8d47815e974382a.png\"></a></span></p>",
-            "headerStyle": {
-              "icon": {
-                "type": ""
-              },
-              "height": 48,
-              "color": "rgba(25,137,250,1)"
-            },
-            "style": {
-              "padding": "10px 16px 0px 16px"
-            }
-          },
-          "name": "Html_qc1amuatqy",
           "x-index": 3
         },
-        "News_2u8rnmmndk": {
-          "type": "sting",
-          "title": {
-            "value": "相关新闻",
-            "status": false
-          },
-          "x-decorator": "Container",
-          "x-component": "News",
-          "x-component-biz-props": {
-            "pageSize": 10,
-            "newsKey": {
-              "id": "8c1f7bc1-f701-4593-bd75-a3857b8dbcd2",
-              "title": "鸿翼",
-              "pos": [
-                "8c1f7bc1-f701-4593-bd75-a3857b8dbcd2"
-              ],
-              "categoryType": 1
-            }
-          },
-          "x-component-props": {
-            "viewType": "static",
-            "viewTypeWap": "static",
-            "showCate": false,
-            "standOut": {
-              "isStandout": false,
-              "threshold": 10
-            },
-            "loadNumber": {
-              "threshold": 10
-            },
-            "everytimeLoad": {
-              "threshold": 10
-            },
-            "showField": [
-              "createTime"
-            ],
-            "titleFontSize": 20,
-            "titleColor": "#000",
-            "titleBgColor": "#fff",
-            "listLogo": "shixinyuan",
-            "headerStyle": {
-              "icon": {
-                "type": ""
-              },
-              "background": "rgba(255,255,255,1)",
-              "fontSize": 16
-            },
-            "style": {
-              "padding": "0px 15px 15px 15px",
-              "backgroundColor": "rgba(255,255,255,1)"
-            },
-            "titlesize": 20,
-            "titlecolor": "#000",
-            "titlebgcolor": "#fff",
-            "dedailPadding": "80px 20px 15px 20px",
-            "dedailPaddingWap": "0px 15px 35px 15px",
-            "dataLoad": "pagesize",
-            "dataLoadWap": "more",
-            "showText": "News.tips.see_more",
-            "showTextWap": "News.tips.see_more",
-            "showPosition": "right-bottom",
-            "seeMore": false,
-            "showPositionWap": "right-top",
-            "detail": {}
-          },
-          "name": "News_2u8rnmmndk",
-          "x-index": 4
-        },
-        "FormTab_2s3vrebepo": {
-          "type": "void",
-          "x-decorator": "Container",
-          "x-decorator-props": {
-            "clickable": true,
-            "className": "FormTabContainer  wap",
-            "style": {
-              "backgroundColor": "rgba(255,255,255,1)",
-              "margin": "0px 0px 0px 0px"
-            }
-          },
-          "x-component": "FormTab",
-          "name": "FormTab_2s3vrebepo",
-          "x-component-props": {},
-          "x-index": 5,
-          "properties": {
-            "FormTab.TabPane_jdf1ywb2bm": {
-              "type": "void",
-              "x-component": "FormTab.TabPane",
-              "x-component-props": {
-                "tab": "功能场景",
-                "linkType": "in"
-              },
-              "x-index": 0,
-              "name": "FormTab.TabPane_jdf1ywb2bm",
-              "properties": {
-                "FolderPanel_dw3ekuzaav": {
-                  "title": {
-                    "value": "FolderPanel.title",
-                    "status": false
-                  },
-                  "type": "string",
-                  "x-component": "FolderPanel$e0de25ff-dc9e-4681-a61f-3a201b29278f",
-                  "x-decorator": "Container",
-                  "x-decorator-props": {
-                    "style": {
-                      "height": "100%"
-                    },
-                    "className": "FolderPanel$e0de25ff-dc9e-4681-a61f-3a201b29278fContainer  wap"
-                  },
-                  "x-component-props": {
-                    "headerStyle": {
-                      "icon": {
-                        "type": "icon-wenjianjiamianban"
-                      }
-                    },
-                    "style": {
-                      "padding": "0"
-                    },
-                    "viewType": "standard",
-                    "component_Name": "folderPanel",
-                    "pageSize": 15,
-                    "sortH5": "basic:name",
-                    "order": "asc",
-                    "markNewFile": false,
-                    "topFolderType": "main",
-                    "topFolder": [
-                      {
-                        "name": "企业库",
-                        "id": 1,
-                        "key": 1
-                      }
-                    ],
-                    "showBreadcrumb": true,
-                    "multiple": false,
-                    "senior": {},
-                    "actions": [],
-                    "applicationMode": "multiple",
-                    "dataLoadMode": "more",
-                    "loadMoreText": "查看更多",
-                    "loadMoreLocation": "bottom",
-                    "associatePage": "page/gongnengchangjingxiangqing,ighiz937zzdphmnrusbs53xvrxw623wh,功能场景详情",
-                    "needSearch": false
-                  },
-                  "name": "FolderPanel_dw3ekuzaav",
-                  "x-component-biz-props": {
-                    "topFolder": [
-                      {
-                        "folderid": 52,
-                        "areaid": -1,
-                        "parentfolderid": 1,
-                        "foldercode": "",
-                        "foldersortorder": -1,
-                        "foldername": "06 内容生产力",
-                        "folderpath": "1\\52",
-                        "foldersize": 0,
-                        "foldermaxfoldersize": 0,
-                        "folderalertsize": 0,
-                        "foldermaxfilesize": 0,
-                        "folderforbiddenfileextensions": "",
-                        "folderchildfolderscount": 6,
-                        "folderchildfilescount": 7,
-                        "securitylevelid": 0,
-                        "folderstate": 0,
-                        "folderlockcount": -1,
-                        "foldercreatetime": "2023-08-08 17:33:27",
-                        "foldercreateoperator": 2,
-                        "foldercreateoperatorname": "Administrator",
-                        "foldermodifytime": "2023-08-08 17:33:28",
-                        "foldermodifyoperator": 2,
-                        "foldermodifyoperatorname": "Administrator",
-                        "folderarchivetime": "0001-01-01 08:05:00",
-                        "folderarchiveoperator": -1,
-                        "foldercurverid": -1,
-                        "foldernewestverid": -1,
-                        "foldertype": 1,
-                        "folderguid": "3a4f5587-3b42-463d-ba65-e67b46300b3e",
-                        "folderownerid": 2,
-                        "folderofflinepermission": 1,
-                        "isdeleted": false,
-                        "folderdeletetime": "0001-01-01 08:05:00",
-                        "folderdeleteoperator": -1,
-                        "folderdeleteoperatorname": null,
-                        "folderiscascadedelete": false,
-                        "folderpurge": -1,
-                        "folderpurgetime": "0001-01-01 08:05:00",
-                        "folderpurgeoperator": -1,
-                        "folderpurgeoperatorname": null,
-                        "folderverstrategy": -1,
-                        "foldercreatetype": -1,
-                        "folderdefaultviewid": -1,
-                        "folderpermstrategy": -1,
-                        "instanceid": 1,
-                        "name": "06 内容生产力",
-                        "relativepath": "企业内容库\\06 内容生产力",
-                        "teamicon": null,
-                        "children": null,
-                        "childrenpagesize": 0,
-                        "childrentotalcount": 0,
-                        "toptargetfoldername": null,
-                        "key": 52,
-                        "address": "企业内容库/06 内容生产力",
-                        "id": 52
-                      }
-                    ],
-                    "pageSize": 5
-                  },
-                  "x-index": 0
-                }
-              }
-            },
-            "FormTab.TabPane_4clynfv4oy": {
-              "type": "void",
-              "x-component": "FormTab.TabPane",
-              "x-component-props": {
-                "tab": "直播视频",
-                "linkType": "in"
-              },
-              "x-index": 1,
-              "name": "FormTab.TabPane_4clynfv4oy",
-              "properties": {
-                "FolderPanel_ljif5sovwr": {
-                  "title": {
-                    "value": "FolderPanel.title",
-                    "status": false
-                  },
-                  "type": "string",
-                  "x-component": "FolderPanel$e0de25ff-dc9e-4681-a61f-3a201b29278f",
-                  "x-decorator": "Container",
-                  "x-decorator-props": {
-                    "style": {
-                      "height": "100%"
-                    },
-                    "className": "FolderPanel$e0de25ff-dc9e-4681-a61f-3a201b29278fContainer  wap"
-                  },
-                  "x-component-props": {
-                    "headerStyle": {
-                      "icon": {
-                        "type": "icon-wenjianjiamianban"
-                      }
-                    },
-                    "style": {
-                      "padding": "0"
-                    },
-                    "viewType": "grid",
-                    "component_Name": "folderPanel",
-                    "pageSize": 15,
-                    "sortH5": "basic:name",
-                    "order": "asc",
-                    "markNewFile": false,
-                    "topFolderType": "main",
-                    "topFolder": [
-                      {
-                        "name": "企业库",
-                        "id": 1,
-                        "key": 1
-                      }
-                    ],
-                    "showBreadcrumb": true,
-                    "multiple": false,
-                    "senior": {},
-                    "actions": [],
-                    "applicationMode": "multiple",
-                    "dataLoadMode": "more",
-                    "loadMoreText": "查看更多",
-                    "loadMoreLocation": "bottom",
-                    "associatePage": "page/gongnengchangjingxiangqing,ighiz937zzdphmnrusbs53xvrxw623wh,功能场景详情",
-                    "needSearch": false
-                  },
-                  "name": "FolderPanel_ljif5sovwr",
-                  "x-component-biz-props": {
-                    "topFolder": [
-                      {
-                        "folderid": 59,
-                        "areaid": -1,
-                        "parentfolderid": 1,
-                        "foldercode": "",
-                        "foldersortorder": -1,
-                        "foldername": "07 内部外协作",
-                        "folderpath": "1\\59",
-                        "foldersize": 0,
-                        "foldermaxfoldersize": 0,
-                        "folderalertsize": 0,
-                        "foldermaxfilesize": 0,
-                        "folderforbiddenfileextensions": "",
-                        "folderchildfolderscount": 4,
-                        "folderchildfilescount": 6,
-                        "securitylevelid": 0,
-                        "folderstate": 0,
-                        "folderlockcount": -1,
-                        "foldercreatetime": "2023-08-08 17:33:38",
-                        "foldercreateoperator": 2,
-                        "foldercreateoperatorname": "Administrator",
-                        "foldermodifytime": "2023-08-08 17:33:39",
-                        "foldermodifyoperator": 2,
-                        "foldermodifyoperatorname": "Administrator",
-                        "folderarchivetime": "0001-01-01 08:05:00",
-                        "folderarchiveoperator": -1,
-                        "foldercurverid": -1,
-                        "foldernewestverid": -1,
-                        "foldertype": 1,
-                        "folderguid": "93064fcd-76f1-4229-bb2c-82f8f90174f5",
-                        "folderownerid": 2,
-                        "folderofflinepermission": 1,
-                        "isdeleted": false,
-                        "folderdeletetime": "0001-01-01 08:05:00",
-                        "folderdeleteoperator": -1,
-                        "folderdeleteoperatorname": null,
-                        "folderiscascadedelete": false,
-                        "folderpurge": -1,
-                        "folderpurgetime": "0001-01-01 08:05:00",
-                        "folderpurgeoperator": -1,
-                        "folderpurgeoperatorname": null,
-                        "folderverstrategy": -1,
-                        "foldercreatetype": -1,
-                        "folderdefaultviewid": -1,
-                        "folderpermstrategy": -1,
-                        "instanceid": 1,
-                        "name": "07 内部外协作",
-                        "relativepath": "企业内容库\\07 内部外协作",
-                        "teamicon": null,
-                        "children": null,
-                        "childrenpagesize": 0,
-                        "childrentotalcount": 0,
-                        "toptargetfoldername": null,
-                        "key": 59,
-                        "address": "企业内容库/07 内部外协作",
-                        "id": 59
-                      }
-                    ],
-                    "pageSize": 5
-                  },
-                  "x-index": 0
-                }
-              }
-            }
-          }
-        },
-        "Navigation_0naidu1ja7": {
+        "Demo_exh5olqqnqu": {
           "type": "string",
           "title": {
-            "value": "相关新闻",
+            "value": "Demo",
             "status": false
           },
-          "x-decorator": "Container",
-          "x-component": "Navigation",
+          "x-decorator": "FormItem",
+          "x-component": "Demo$62189c9b-241d-4363-9f8a-c74afb6d95d8",
           "x-component-props": {
-            "headerStyle": {
-              "icon": {
-                "type": ""
-              },
-              "height": 40,
-              "fontSize": 14,
-              "color": "rgba(25,137,250,1)"
-            },
-            "style": {
-              "padding": "0px 5px 16px 5px"
-            },
-            "rowCount": 2,
-            "mobilerowCount": 2,
-            "colHeight": 60,
-            "horizontalGutter": 5,
-            "verticalGutter": 5,
-            "position": "",
-            "navList": [],
-            "view": "standard",
-            "iconOption": {
-              "type": "icon-mofangdaohang",
-              "size": 24
-            },
-            "contentType": 2,
-            "fontSize": 16,
-            "dataSource1": [
-              {
-                "id": "gOqV-pa24-Tgz6-5Tz4",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "● 入选Gartner中国低代码应用平台企业…",
-                "icon": {
-                  "type": ""
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": true,
-                "linkAddress": "https://mp.weixin.qq.com/s?__biz=MjM5MzQyODQwMA==&mid=2649610404&idx=1&sn=84e1a97a2b3941ea544aeab2d7260b93&chksm=be8e5e7b89f9d76d0eedff18f993a8cb915f6dd05beb0a5ca685c6d37fa5a1b6b8073c233254&scene=126&&sessionid=1664171138#rd",
-                "page": ""
-              },
-              {
-                "id": "U38v-uhSx-PKSF-tRFX",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "● 鸿翼InBiz内容低代码平台新版上线！",
-                "icon": {
-                  "type": ""
-                },
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)",
-                "externalAddress": true,
-                "linkAddress": "https://mp.weixin.qq.com/s?__biz=MjM5MzQyODQwMA==&mid=2649609339&idx=1&sn=caf6f9aa4bba113b8877c6482c71d0e2&chksm=be8e52a489f9dbb2937074d86e9e26a1eaf28ff408398a02daf830376fa1a6a3d30efca51b87&scene=126&&sessionid=1664171231#rd",
-                "page": ""
-              },
-              {
-                "id": "10002",
-                "isEdit": true,
-                "isHide": true,
-                "isDel": true,
-                "title": "● InBiz内容低代码平台宣传片正式发布",
-                "icon": {
-                  "type": ""
-                },
-                "externalAddress": true,
-                "page": "",
-                "linkAddress": "https://mp.weixin.qq.com/s?__biz=MjM5MzQyODQwMA==&mid=2649608603&idx=1&sn=3f87ae57631bbbcebec69942a4736dfa&chksm=be8e574489f9de52a3e2fb2572f0881c86af8dba2fe03ba416e6ccbfb4c6fcce8a7f0c8c6b23&scene=126&&sessionid=1664171293#rd",
-                "blockBackgroundColor": "rgba(255,255,255,1)",
-                "titleColor": "rgba(0,0,0,1)"
-              }
-            ],
-            "className": "",
-            "radius": 10,
-            "gridHeight": 75,
-            "shadow": false
+            "defaultValueType": "custom",
+            "systemDefaultValue": "System_Var_LoginUserID",
+            "type": "text",
+            "placeholder": "请输入",
+            "allowClear": true,
+            "autoComplete": false,
+            "model": {},
+            "modelend": {},
+            "sourcetype": "model"
           },
-          "name": "Navigation_0naidu1ja7",
+          "name": "Demo_exh5olqqnqu",
+          "x-validator": [],
           "x-decorator-props": {
-            "style": {
-              "margin": "0px 0px 16px 0px",
-              "backgroundColor": "rgba(255,255,255,1)"
-            },
-            "className": "NavigationContainer  wap"
+            "className": "Demo$62189c9b-241d-4363-9f8a-c74afb6d95d8Container  wap"
           },
-          "x-index": 6,
-          "x-display": "hidden"
+          "x-index": 4
+        },
+        "IndexTab_83yupustvjb": {
+          "type": "string",
+          "title": {
+            "value": "IndexTab",
+            "status": false
+          },
+          "x-decorator": "FormItem",
+          "x-component": "IndexTab$62189c9b-241d-4363-9f8a-c74afb6d95d8",
+          "x-component-props": {
+            "defaultValueType": "custom",
+            "systemDefaultValue": "System_Var_LoginUserID",
+            "type": "text",
+            "placeholder": "请输入",
+            "allowClear": true,
+            "autoComplete": false,
+            "model": {},
+            "modelend": {},
+            "sourcetype": "model"
+          },
+          "name": "IndexTab_83yupustvjb",
+          "x-validator": [],
+          "x-decorator-props": {
+            "className": "IndexTab$62189c9b-241d-4363-9f8a-c74afb6d95d8Container  wap"
+          },
+          "x-index": 5
         }
       }
     }

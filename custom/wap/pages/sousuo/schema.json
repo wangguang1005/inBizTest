@@ -1,0 +1,618 @@
+{
+  "content": {
+    "form": {
+      "labelCol": 6,
+      "wrapperCol": 18,
+      "layout": "vertical",
+      "labelAlign": "left",
+      "model": {},
+      "x-display": false
+    },
+    "schema": {
+      "type": "object",
+      "properties": {
+        "SearchEngine_pz0i6qeh1n8": {
+          "type": "sting",
+          "title": {
+            "value": "SearchEngineView.search",
+            "status": true
+          },
+          "x-component": "SearchEngine",
+          "x-component-props": {
+            "inIcon": {
+              "type": "icon-inbiz_basic-search"
+            },
+            "inTitle": {
+              "value": "SearchEngineView.search",
+              "status": true
+            },
+            "searchIcon": {
+              "type": "icon-inbiz_basic-search"
+            },
+            "searchText": {
+              "value": "SearchEngineView.search",
+              "status": true
+            },
+            "buttonText": {
+              "value": "SearchEngineView.search",
+              "status": true
+            },
+            "align": "center",
+            "placeholderWeb": "SearchEngineView.enterSearchContent",
+            "endSearchIcon": {
+              "type": ""
+            },
+            "resultSearch": {
+              "value": "SearchEngineView.resultSearch",
+              "status": true
+            },
+            "viewType": "largePanelView",
+            "wapviewType": "largePanelView",
+            "sort": "",
+            "searchResultType": "page",
+            "order": "",
+            "className": "",
+            "icon": {
+              "type": "icon-inbiz_basic-search",
+              "size": "32px",
+              "color": "rgb(102, 102, 102)"
+            },
+            "hotKeywordsSwitch": true,
+            "hotKeywordsPosition": "inside",
+            "hotKeywordsNumber": 8,
+            "detection": false,
+            "associativeWords": true,
+            "indexRange": true,
+            "pullWidth": 100,
+            "searchResultPageType": "_blank",
+            "placeholder": "SearchEngineView.enterSearchContent",
+            "tabsConfig": [
+              {
+                "guid": "all_202101031218",
+                "title": "SearchEngineView.whole",
+                "isAll": true,
+                "isShow": false,
+                "isEdit": true,
+                "isDelete": false,
+                "searchMode": false,
+                "indexLibraryName": "202101031218"
+              },
+              {
+                "guid": "file_202101031117",
+                "title": "SearchEngineView.file",
+                "isFile": true,
+                "isShow": true,
+                "isEdit": true,
+                "isDelete": false,
+                "advancedSearch": false,
+                "customRange": [
+                  "allFolder",
+                  "curfolder"
+                ],
+                "searchFolderName": "SearchEngineView.enterpriseContentLibrary",
+                "searchMode": false,
+                "advancedSearchStyle": "style2",
+                "quikSearchTemplate": "file.jsx",
+                "filepath": "/inbiz/wap/template_search/file.jsx",
+                "indexLibraries": [
+                  {
+                    "IndexName": "file",
+                    "IndexCode": "0536ce92cbca4e359d1d448349fa2260",
+                    "IndexDesc": "ECM文件索引",
+                    "IndexType": 2,
+                    "Id": 1,
+                    "configs": [
+                      {
+                        "title": "file",
+                        "defaultSearchCriteria": "*",
+                        "sortField": [
+                          {
+                            "sort": "desc",
+                            "enable": true,
+                            "IndexFieldDesc": "SearchEngineView.matchingDegree",
+                            "IndexFieldName": "",
+                            "default": true
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "guid": "folder_202101031118",
+                "title": "SearchEngineView.folder",
+                "isFolder": true,
+                "isShow": true,
+                "isEdit": true,
+                "isDelete": false,
+                "advancedSearch": false,
+                "customRange": [
+                  "allFolder",
+                  "curfolder"
+                ],
+                "searchFolderName": "SearchEngineView.enterpriseContentLibrary",
+                "searchMode": false,
+                "advancedSearchStyle": "style2",
+                "quikSearchTemplate": "folder.jsx",
+                "filepath": "/inbiz/wap/template_search/folder.jsx",
+                "indexLibraries": [
+                  {
+                    "IndexName": "folder",
+                    "IndexCode": "dfb12a6ac68147169a9c3079df562ee6",
+                    "IndexDesc": "ECM文件夹索引",
+                    "IndexType": 2,
+                    "Id": 6,
+                    "configs": [
+                      {
+                        "title": "folder",
+                        "defaultSearchCriteria": "*",
+                        "sortField": [
+                          {
+                            "sort": "desc",
+                            "enable": true,
+                            "IndexFieldDesc": "SearchEngineView.matchingDegree",
+                            "IndexFieldName": "",
+                            "default": true
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "historySearch": true,
+            "synonymSearch": true,
+            "fixedWidth": "420px",
+            "rangeType": "popup",
+            "buttonIcon": {
+              "type": "icon-inbiz_basic-search"
+            }
+          },
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "style": {
+              "padding": "9px 16px 9px 16px"
+            },
+            "className": "SearchEngineContainer  wap"
+          },
+          "name": "SearchEngine_pz0i6qeh1n8",
+          "x-index": 0
+        },
+        "Text_h5cw69i69k6": {
+          "type": "string",
+          "title": {
+            "value": "Text.title",
+            "status": false
+          },
+          "x-decorator": "Container",
+          "x-component": "Text",
+          "x-component-props": {
+            "headerStyle": {
+              "icon": {
+                "type": "icon-changwenben"
+              }
+            },
+            "style": {
+              "padding": "0px 20px 0px 20px"
+            },
+            "text": "历史记录",
+            "color": "rgba(60,60,60,1)",
+            "fontSize": 20,
+            "textIndent": 0,
+            "lineHeight": 1.8,
+            "textAlign": "left"
+          },
+          "name": "Text_h5cw69i69k6",
+          "x-index": 1
+        },
+        "Space_dil0ecd0wtb": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "style": {
+              "margin": "auto",
+              "padding": "5px 5px 5px 5px"
+            },
+            "className": "SpaceContainer  wap"
+          },
+          "x-component": "Space",
+          "x-component-props": {
+            "justify": "start",
+            "align": "center",
+            "wrap": true,
+            "size": 2
+          },
+          "name": "Space_dil0ecd0wtb",
+          "x-index": 2,
+          "properties": {
+            "EformButton_pur7ty0wls0": {
+              "title": {
+                "value": "产品",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_pur7ty0wls0",
+              "x-index": 0
+            },
+            "EformButton_6cbtry5ogor": {
+              "title": {
+                "value": "操作手册",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_6cbtry5ogor",
+              "x-index": 1
+            },
+            "EformButton_3v0cp1e8bh2": {
+              "title": {
+                "value": "项目管理",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_3v0cp1e8bh2",
+              "x-index": 2
+            },
+            "EformButton_6h8bajaozji": {
+              "title": {
+                "value": "项目交付",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_6h8bajaozji",
+              "x-index": 3
+            },
+            "EformButton_1fzuptyin5w": {
+              "title": {
+                "value": "操作手册",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_1fzuptyin5w",
+              "x-display": "visible",
+              "x-index": 4
+            }
+          }
+        },
+        "Text_egckr1ig6e6": {
+          "type": "string",
+          "title": {
+            "value": "Text.title",
+            "status": false
+          },
+          "x-decorator": "Container",
+          "x-component": "Text",
+          "x-component-props": {
+            "headerStyle": {
+              "icon": {
+                "type": "icon-changwenben"
+              }
+            },
+            "style": {
+              "padding": "0px 20px 0px 20px"
+            },
+            "text": "热门搜索",
+            "color": "rgba(60,60,60,1)",
+            "fontSize": 20,
+            "textIndent": 0,
+            "lineHeight": 1.8,
+            "textAlign": "left"
+          },
+          "name": "Text_egckr1ig6e6",
+          "x-index": 3
+        },
+        "Space_1kxzoas1hqv": {
+          "type": "void",
+          "x-decorator": "Container",
+          "x-decorator-props": {
+            "clickable": true,
+            "style": {
+              "margin": "auto",
+              "padding": "5px 5px 5px 5px"
+            },
+            "className": "SpaceContainer  wap"
+          },
+          "x-component": "Space",
+          "x-component-props": {
+            "justify": "start",
+            "align": "center",
+            "wrap": true,
+            "size": 2
+          },
+          "name": "Space_1kxzoas1hqv",
+          "x-index": 4,
+          "properties": {
+            "EformButton_pur7ty0wls0": {
+              "title": {
+                "value": "产品",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_pur7ty0wls0",
+              "x-index": 0
+            },
+            "EformButton_6cbtry5ogor": {
+              "title": {
+                "value": "操作手册",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_6cbtry5ogor",
+              "x-index": 1
+            },
+            "EformButton_3v0cp1e8bh2": {
+              "title": {
+                "value": "项目管理",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_3v0cp1e8bh2",
+              "x-index": 2
+            },
+            "EformButton_6h8bajaozji": {
+              "title": {
+                "value": "项目交付",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_6h8bajaozji",
+              "x-index": 3
+            },
+            "EformButton_1fzuptyin5w": {
+              "title": {
+                "value": "操作手册",
+                "status": true
+              },
+              "type": "string",
+              "x-decorator": "Container",
+              "x-component": "EformButton",
+              "x-component-props": {
+                "buttontype": "submit",
+                "buttonShowTyps": "primary",
+                "wapButtonShowTyps": "solid",
+                "buttonColorType": "system",
+                "buttonBorder": 2,
+                "icon": {
+                  "type": "",
+                  "color": "#000",
+                  "size": 14
+                },
+                "style": {
+                  "borderRadius": "2px 2px 2px 2px"
+                }
+              },
+              "x-decorator-props": {
+                "style": {
+                  "padding": "4px 4px 4px 4px",
+                  "margin": "0px 0px 22px 0px"
+                },
+                "className": "EformButtonContainer  wap"
+              },
+              "name": "EformButton_1fzuptyin5w",
+              "x-display": "visible",
+              "x-index": 4
+            }
+          }
+        }
+      }
+    }
+  }
+}

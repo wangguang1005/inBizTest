@@ -16,7 +16,7 @@
   "ThumbPath": "/inbiz/static/{AppId}/file/2023-08-18/927d44e6553545a1940d2925ea5c68af.png",
   "LogoPath": null,
   "IsOnlyOne": false,
-  "HasCustomPlugin": false,
+  "HasCustomPlugin": true,
   "Sites": [
     {
       "SiteType": 0,

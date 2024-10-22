@@ -5,8 +5,8 @@
   "Description": "",
   "Sort": "17",
   "ParentId": null,
-  "IsCustomized": false,
+  "IsCustomized": true,
   "Layout": null,
-  "CreateOriginType": 1,
+  "CreateOriginType": 2,
   "IsSkipPerm": false
 }

@@ -11,14 +11,14 @@
     "schema": {
       "type": "object",
       "properties": {
-        "SearchDetail_m7uair4d2h4": {
+        "MoreList_0mkn0n8kpxc": {
           "type": "string",
           "title": {
-            "value": "SearchDetail",
+            "value": "MoreList",
             "status": false
           },
           "x-decorator": "FormItem",
-          "x-component": "SearchDetail$62189c9b-241d-4363-9f8a-c74afb6d95d8",
+          "x-component": "MoreList$62189c9b-241d-4363-9f8a-c74afb6d95d8",
           "x-component-props": {
             "defaultValueType": "custom",
             "systemDefaultValue": "System_Var_LoginUserID",
@@ -30,10 +30,10 @@
             "modelend": {},
             "sourcetype": "model"
           },
-          "name": "SearchDetail_m7uair4d2h4",
+          "name": "MoreList_0mkn0n8kpxc",
           "x-validator": [],
           "x-decorator-props": {
-            "className": "SearchDetail$62189c9b-241d-4363-9f8a-c74afb6d95d8Container  wap"
+            "className": "MoreList$62189c9b-241d-4363-9f8a-c74afb6d95d8Container  wap"
           },
           "x-index": 0
         }
