@@ -64,6 +64,7 @@
               "bgColor": "rgba(255,255,255,1)"
             },
             "name": "InbizMenu_fomy0oryenz",
+            "x-index": 0,
             "properties": {
               "InbizMenu.Plugin_uq86v4omxok": {
                 "type": "void",
@@ -80,8 +81,7 @@
                 "name": "InbizMenu.Plugin_uq86v4omxok",
                 "x-index": 0
               }
-            },
-            "x-index": 0
+            }
           }
         }
       }
